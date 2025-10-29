@@ -37,7 +37,7 @@ public void buscar(int valor){
     }
     else{
         if(inicio.valor==valor){
-            System.out.println("Existe valor");
+            System.out.println("Existe valor "+inicio.valor);
         }
         else{
             noduplo noAtual=inicio.prox;
@@ -92,3 +92,4 @@ public void remover(int valor){
     
 }
 }
+
