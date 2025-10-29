@@ -29,9 +29,9 @@ public class listacircular {
 
 
         nocircular atual = inicio.prox;
-        System.out.print("Lista: "+inicio.valor);
+        System.out.println("Nó "+inicio.valor);
         while (atual != inicio){
-            System.out.print(atual.valor + " ");
+            System.out.println("Nó "+atual.valor);
             atual = atual.prox;
         } 
     }
@@ -72,29 +72,33 @@ public class listacircular {
 
         while (true){
             if (atual.valor == valor) {
-                if (atual == inicio && atual == fim) { // apenas um elemento
+                if (atual == inicio && atual == fim) { 
                     inicio = null;
                     fim = null;
-                } else if (atual == inicio) { // removendo o primeiro
+                } else if (atual == inicio) { 
                     inicio = inicio.prox;
                     fim.prox = inicio;
-                } else if (atual == fim) { // removendo o último
+                } else if (atual == fim) { 
                     fim = anterior;
                     fim.prox = inicio;
-                } else { // removendo do meio
+                } else { 
                     anterior.prox = atual.prox;
                 }
-                System.out.println("Valor " + valor + " removido!");
+                
                 return;
             }
+           
+
+
+            if (atual == fim){
+                break;
+            }
+
             anterior = atual;
             atual = atual.prox;
-
-            if (atual == fim) break; // se chegou ao último, para o loop
-    anterior = atual;
-    atual = atual.prox;
         } 
 
         System.out.println("Valor não encontrado!");
     }
 }
+
