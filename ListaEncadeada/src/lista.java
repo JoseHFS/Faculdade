@@ -32,7 +32,7 @@ public void buscar(int valor){
     }
     else{
         if(inicio.valor==valor){
-            System.out.println("Existe valor");
+            System.out.println("Existe valor "+inicio.valor);
         }
         else{
             no noAtual=inicio.prox;
@@ -63,11 +63,15 @@ public void remover(int valor){
     while(noAtual!=null){
         if(noAtual.valor==valor){
             anterior.prox=noAtual.prox;
+            return;
 
         }
         anterior = noAtual;
         noAtual=noAtual.prox;
     }
+    System.out.println("Valor inexistente");
     
 }
 }
+
+
