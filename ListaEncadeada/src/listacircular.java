@@ -1,6 +1,6 @@
 public class listacircular {
-    private nocircular inicio;
-    private nocircular fim;
+    nocircular inicio;
+    nocircular fim;
 
     public listacircular() {
         this.inicio = null;
@@ -101,4 +101,5 @@ public class listacircular {
         System.out.println("Valor não encontrado!");
     }
 }
+
 
