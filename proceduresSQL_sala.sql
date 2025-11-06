@@ -36,6 +36,11 @@ select*from usuario;
 select sum(duracao_segundos) as total_assistido from reproducao where data_reproducao  between '2023-01-01' and 
 '2025-12-31';
 
-select sum(duracao_segundos) as total_assistido from reproducao where data_reproducao  between '2023-01-01' and 
-'2025-12-31' group by categoria;
+select sum(duracao_segundos) as total_assistido,pais from reproducao join usuario on 
+reproducao.id_usuario=usuario.id_usuario where data_reproducao between '2023-01-01' and '2025-12-31' group by pais;
+
+
+select sum(duracao_segundos) as total_assistido,usuario.pais,reproducao.categoria from reproducao join usuario on 
+reproducao.id_usuario=usuario.id_usuario where data_reproducao between '2023-01-01' and '2025-12-31' group by categoria,pais;
+
 
