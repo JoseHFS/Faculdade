@@ -29,3 +29,13 @@ insert into reproducao (id_usuario,data_reproducao,duracao_segundos,categoria) v
 select tableoid::regclass as particao,* from usuario;
 select tableoid::regclass as particao,* from reproducao;
 
+select pais, count(*) as total from usuario where data_cadastro between '2023-01-01' and '2025-12-31' group by pais;
+
+select*from usuario;
+
+select sum(duracao_segundos) as total_assistido from reproducao where data_reproducao  between '2023-01-01' and 
+'2025-12-31';
+
+select sum(duracao_segundos) as total_assistido from reproducao where data_reproducao  between '2023-01-01' and 
+'2025-12-31' group by categoria;
+
