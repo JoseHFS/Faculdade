@@ -1,31 +1,18 @@
-# Faculdade
-José Henrique Fernandes e Silva
+## Getting Started
 
-Ponteiros são variáveis que guardam o endereço de outra variável na memória
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-int *p; ponteiro do tipo inteiro. O * diz que essa variável é um ponteiro
+## Folder Structure
 
-p = &x; isso diz que o ponteiro recebe o endereço da memória da variável x
+The workspace contains two folders by default, where:
 
-printf("%p", p); isso exibe o endereço para o qual o ponteiro aponta, sendo o mesmo que:
-printf("%p", &x)
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-É possível também exibir o valor da variável cujo endereço o ponteiro recebeu, usando o próprio ponteiro
-printf("%d", *p);
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-Eles podem ser: int, float, double, char, short, long, ponteiros de ponteiros, arrays e matrizes
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-int *p;
-float *p;
-double *p;
-char *p;
-short *p;
-long *p;
+## Dependency Management
 
-int array[4];
-int *p = array;
-
-int matriz[4][4];
-int *p = &matriz[0][0];
-
-Eu os usei onde deu pra usar, como na matriz 4x4 dos jogadores, onde fiz um ponteiro para a matriz e a percorri para exibir os jogadores e os sets. Quase todas as variáveis eu fiz ponteiros para elas. Houve uma confusão na hora de percorrê-las, já que percorrer uma matriz e percorrer um ponteiro para matriz são meios diferentes.
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
