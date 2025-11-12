@@ -58,7 +58,7 @@ public boolean buscar(int valor) {
      public boolean buscarRec( no atual,int valor) {
         
         if (atual == null) {
-            System.out.println("Arvore vazia");
+            System.out.println("Valor inexistente");
             return false;
         }
 
@@ -77,4 +77,5 @@ public boolean buscar(int valor) {
 
     }
 }
+
 
