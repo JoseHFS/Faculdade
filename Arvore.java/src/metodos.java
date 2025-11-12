@@ -1,25 +1,25 @@
 public class metodos {
     no raiz;
 
-    // Método público: ponto de entrada
+    
     public void inserir(int valor) {
         raiz = inserirRec(raiz, valor);
     }
 
-    // Método recursivo que faz o trabalho real
+   
      no inserirRec(no atual, int valor) {
-        // Se o nó atual é nulo, cria um novo nó
+       
         if (atual == null) {
             return new no(valor);
         }
 
-        // Decide para qual lado ir
+        
         if (valor < atual.valor) {
             atual.left = inserirRec(atual.left, valor);
         } else if (valor > atual.valor) {
             atual.right = inserirRec(atual.right, valor);
         } 
-        // Se for igual, não faz nada (não insere duplicado)
+        
 
         return atual;
     }
@@ -41,7 +41,7 @@ public void emOrdem(no atual) {
     }
 }
 
-// Pós-ordem: esquerda → direita → raiz
+
 public void posOrdem(no atual) {
     if (atual != null) {
         posOrdem(atual.left);
@@ -67,7 +67,7 @@ public boolean buscar(int valor) {
             return true;
         }
 
-        // Decide para qual lado ir
+        
         if (valor < atual.valor) {
         return buscarRec(atual.left, valor);
     } else {
@@ -77,3 +77,4 @@ public boolean buscar(int valor) {
 
     }
 }
+
