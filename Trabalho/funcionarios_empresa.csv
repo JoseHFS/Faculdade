@@ -1,0 +1,501 @@
+ID_Funcionario,Nome,Idade,Departamento,Cargo,Salario,Tempo_Empresa_Meses,Data_Admissao,Nivel_Educacao,Estado_Civil,Tipo_Contrato,Avaliacao_Performance,Horas_Extras_Mes,Beneficios,Faltas_Ultimo_Ano,Satisfacao_Trabalho
+1,Tatiane Mendes 001,40,Vendas,Vendedor Jr,3685.36,4,2025-05-18,Superior Completo,Casado(a),CLT,4.8,5,953.49,1,5.6
+2,Ana Silva 002,23,Marketing,Coordenador de Marketing,8081.03,1,2025-08-16,Superior Completo,Solteiro(a),CLT,2.4,7,964.51,2,5.2
+3,Rafael Alves 003,36,TI,Desenvolvedor Pleno,8491.98,2,2025-07-17,Pós-graduação,Solteiro(a),CLT,2.7,7,483.34,4,5.7
+4,Carla Souza 004,32,Operações,Gerente de Operações,9745.3,9,2024-12-19,Ensino Médio,Casado(a),CLT,3.4,12,980.71,1,7.0
+5,Pedro Costa 005,33,Financeiro,Analista Financeiro Jr,3556.68,63,2020-07-13,Pós-graduação,Solteiro(a),CLT,3.9,10,1031.64,1,6.5
+6,Vanessa Castro 006,28,Operações,Coordenador de Operações,8980.5,85,2018-09-22,Técnico,Solteiro(a),Estágio,3.6,6,685.06,2,6.4
+7,João Santos 007,41,RH,Analista de RH Jr,2763.49,24,2023-09-26,Pós-graduação,Solteiro(a),CLT,,4,1238.09,2,5.6
+8,Maria Oliveira 008,47,Operações,Analista de Operações,3530.05,50,2021-08-07,Pós-graduação,Divorciado(a),PJ,3.2,10,923.53,0,8.8
+9,Rafael Alves 009,37,TI,Gerente de TI,34134.45,28,2023-05-29,Superior Incompleto,Viúvo(a),CLT,2.5,9,931.31,4,4.9
+10,Felipe Araújo 010,34,Financeiro,Analista Financeiro Jr,3823.93,67,2020-03-15,Superior Completo,Solteiro(a),CLT,3.4,10,834.64,1,7.6
+11,Gustavo Moreira 011,35,RH,Analista de RH Pleno,4557.05,32,2023-01-29,Ensino Médio,Casado(a),CLT,4.4,15,1010.76,2,
+12,Renata Freitas 012,32,Marketing,Gerente de Marketing,11906.8,1,2025-08-16,Superior Completo,Casado(a),CLT,2.5,62,776.91,1,8.2
+13,Rafael Alves 013,37,TI,Analista de Sistemas,8020.33,13,2024-08-21,Superior Incompleto,Solteiro(a),PJ,2.6,4,845.79,2,6.4
+14,Vanessa Castro 014,36,Operações,Coordenador de Operações,7001.9,27,2023-06-28,Superior Completo,Solteiro(a),CLT,4.1,15,1046.04,2,5.1
+15,Fábio Correia 015,26,Vendas,Vendedor Jr,3596.91,1,2025-08-16,Pós-graduação,Solteiro(a),CLT,3.9,10,784.25,2,6.1
+16,Cristina Ramos 016,32,TI,QA Analyst,5160.69,27,2023-06-28,Pós-graduação,Solteiro(a),Estágio,4.3,6,1162.73,6,7.6
+17,Lucas Pereira 017,35,Vendas,Gerente de Vendas,9882.97,20,2024-01-24,Superior Completo,Casado(a),PJ,3.7,9,762.56,3,6.2
+18,Camila Martins 018,22,TI,Desenvolvedor Sr,14445.87,19,2024-02-23,Superior Incompleto,Solteiro(a),Terceirizado,3.3,6,620.55,3,9.3
+19,Carla Souza 019,27,Vendas,Vendedor Pleno,4631.63,11,2024-10-20,Superior Incompleto,Solteiro(a),CLT,2.9,5,624.98,4,7.2
+20,Cristina Ramos 020,43,TI,Desenvolvedor Sr,11805.63,11,2024-10-20,Ensino Médio,Solteiro(a),CLT,4.7,5,1127.77,4,7.3
+21,Pedro Costa 021,28,TI,Desenvolvedor Jr,3868.03,50,2021-08-07,Superior Completo,Solteiro(a),PJ,1.0,15,746.35,3,9.9
+22,Larissa Cardoso 022,36,Financeiro,Analista Financeiro Jr,4062.62,1,2025-08-16,Superior Completo,Divorciado(a),CLT,4.0,10,815.21,2,
+23,Diego Ribeiro 023,19,Vendas,Vendedor Sr,5424.97,3,2025-06-17,Ensino Médio,Divorciado(a),CLT,3.9,6,835.63,2,7.1
+24,Felipe Araújo 024,32,Financeiro,Contador,8152.92,3,2025-06-17,,Casado(a),PJ,4.2,5,894.21,0,4.7
+25,Fábio Correia 025,36,Vendas,Vendedor Jr,3604.39,21,2023-12-25,Superior Completo,Casado(a),PJ,2.5,12,834.79,1,8.4
+26,André Teixeira 026,41,Jurídico,Gerente Jurídico,14105.17,18,2024-03-24,Superior Completo,Casado(a),CLT,4.5,9,782.85,3,6.1
+27,Gustavo Moreira 027,19,TI,Desenvolvedor Jr,4676.11,15,2024-06-22,Técnico,Casado(a),CLT,2.1,9,593.47,1,7.8
+28,Eduardo Pinto 028,43,Marketing,Gerente de Marketing,10554.16,13,2024-08-21,Superior Completo,Solteiro(a),CLT,4.3,11,901.88,3,8.9
+29,Maria Oliveira 029,47,Vendas,Coordenador de Vendas,7422.14,10,2024-11-19,Superior Completo,Casado(a),CLT,,9,711.07,2,10.0
+30,Bruno Ferreira 030,36,TI,QA Analyst,5590.25,61,2020-09-11,Pós-graduação,Casado(a),CLT,4.1,12,682.38,2,6.8
+31,Tatiane Mendes 031,41,Vendas,Coordenador de Vendas,7076.98,10,2024-11-19,Superior Completo,Solteiro(a),CLT,3.2,7,1133.8,2,5.8
+32,Simone Campos 032,33,Jurídico,Advogado Sr,8983.65,5,2025-04-18,Superior Completo,Casado(a),CLT,3.6,6,,1,3.9
+33,Vanessa Castro 033,23,Operações,Analista de Operações,3533.31,12,2024-09-20,Pós-graduação,Solteiro(a),CLT,4.2,4,1054.31,1,8.2
+34,Renata Freitas 034,27,Operações,Analista de Operações,4987.84,8,2025-01-18,Superior Completo,Casado(a),PJ,2.7,58,695.46,1,8.6
+35,João Santos 035,24,Marketing,Analista de Marketing Pleno,7579.31,13,2024-08-21,Superior Completo,Casado(a),CLT,3.7,7,780.66,1,7.0
+36,Cristina Ramos 036,37,TI,Desenvolvedor Sr,12352.52,19,2024-02-23,Pós-graduação,Casado(a),CLT,2.7,4,599.25,3,7.8
+37,Maria Oliveira 037,32,TI,QA Analyst,5663.81,6,2025-03-19,Superior Completo,Solteiro(a),CLT,2.3,9,640.31,3,7.3
+38,Rafael Alves 038,32,Marketing,Analista de Marketing Jr,2682.08,38,2022-08-02,Superior Completo,Divorciado(a),PJ,3.2,8,911.96,3,8.6
+39,Larissa Cardoso 039,38,TI,Desenvolvedor Sr,12373.84,20,2024-01-24,Pós-graduação,Solteiro(a),PJ,2.6,11,1010.63,0,7.6
+40,Priscila Gomes 040,22,Financeiro,Contador,9041.32,6,2025-03-19,Pós-graduação,Viúvo(a),CLT,3.7,4,696.54,5,9.1
+41,Lucas Pereira 041,31,Vendas,Vendedor Sr,7661.86,8,2025-01-18,Pós-graduação,Solteiro(a),Estágio,2.7,3,646.44,1,8.5
+42,Diego Ribeiro 042,33,Operações,Analista de Operações,3326.37,6,2025-03-19,Superior Completo,Solteiro(a),Terceirizado,3.8,7,1084.1,1,6.1
+43,Marcelo Cunha 043,36,Operações,Coordenador de Operações,5408.47,20,2024-01-24,Superior Incompleto,Casado(a),CLT,3.0,11,722.46,3,6.3
+44,Renata Freitas 044,43,RH,Analista de RH Jr,3480.29,25,2023-08-27,Superior Completo,Casado(a),CLT,3.2,12,883.65,1,7.6
+45,Felipe Araújo 045,35,Vendas,Vendedor Pleno,5067.47,24,2023-09-26,Pós-graduação,Solteiro(a),CLT,4.7,10,842.73,2,7.6
+46,Gustavo Moreira 046,65,TI,DevOps,8290.16,1,2025-08-16,Mestrado,Solteiro(a),PJ,3.4,9,555.01,5,8.7
+47,Rafael Alves 047,27,Financeiro,Analista Financeiro Pleno,6892.7,15,2024-06-22,Superior Completo,Solteiro(a),PJ,4.1,4,902.77,2,6.6
+48,Priscila Gomes 048,23,TI,Analista de Sistemas,6545.55,6,2025-03-19,Técnico,Casado(a),CLT,3.9,15,,1,8.8
+49,Juliana Rocha 049,29,Operações,Gerente de Operações,12111.45,41,2022-05-04,Superior Completo,Casado(a),CLT,3.6,9,874.39,5,6.7
+50,Renata Freitas 050,34,Marketing,Analista de Marketing Pleno,17920.61,30,2023-03-30,Superior Incompleto,Viúvo(a),Terceirizado,4.9,58,1015.02,1,6.2
+51,Marcelo Cunha 051,36,TI,Desenvolvedor Sr,13963.88,32,2023-01-29,Mestrado,Casado(a),CLT,3.4,9,960.1,1,7.3
+52,Patrícia Lopes 052,38,RH,Analista de RH Jr,2870.91,4,2025-05-18,Superior Incompleto,Casado(a),CLT,3.8,8,741.7,1,6.9
+53,Rafael Alves 053,38,TI,QA Analyst,5563.38,42,2022-04-04,Pós-graduação,Casado(a),PJ,2.5,6,872.53,2,8.9
+54,João Santos 054,40,Vendas,Vendedor Sr,19770.45,65,2020-05-14,Superior Completo,Divorciado(a),CLT,3.6,4,400.36,3,5.6
+55,Larissa Cardoso 055,40,RH,Coordenador de RH,7811.14,48,2021-10-06,Pós-graduação,Casado(a),CLT,3.0,9,582.08,1,9.4
+56,Maria Oliveira 056,43,RH,Analista de RH Pleno,5291.79,20,2024-01-24,Superior Completo,Solteiro(a),CLT,4.0,10,871.11,2,5.1
+57,Eduardo Pinto 057,30,TI,Gerente de TI,17451.75,11,2024-10-20,Superior Completo,Casado(a),PJ,4.7,6,918.95,1,8.3
+58,Simone Campos 058,67,TI,DevOps,8658.87,1,2025-08-16,Superior Completo,Casado(a),PJ,3.8,7,679.34,0,4.6
+59,Camila Martins 059,35,TI,Desenvolvedor Pleno,5999.22,2,2025-07-17,Superior Completo,Casado(a),Estágio,2.2,11,888.09,1,5.9
+60,Tatiane Mendes 060,42,Operações,Coordenador de Operações,6292.83,14,2024-07-22,Superior Completo,Casado(a),CLT,,6,1091.9,2,4.5
+61,Larissa Cardoso 061,48,RH,Gerente de RH,9169.62,113,2016-06-04,Superior Incompleto,Solteiro(a),CLT,,4,1125.68,1,6.1
+62,Carla Souza 062,40,Marketing,Coordenador de Marketing,8555.15,9,2024-12-19,Superior Completo,Solteiro(a),CLT,5.0,10,652.89,3,8.9
+63,Carla Souza 063,44,Vendas,Vendedor Pleno,5106.29,23,2023-10-26,Técnico,Divorciado(a),CLT,3.7,6,738.18,1,10.0
+64,André Teixeira 064,25,Marketing,Coordenador de Marketing,8301.57,5,2025-04-18,Pós-graduação,Solteiro(a),Terceirizado,3.5,10,1017.18,0,7.7
+65,André Teixeira 065,54,Operações,Gerente de Operações,10027.28,4,2025-05-18,Mestrado,Casado(a),Terceirizado,1.5,3,812.79,1,2.7
+66,Thiago Nascimento 066,37,TI,Gerente de TI,16215.25,3,2025-06-17,Doutorado,Solteiro(a),CLT,2.5,5,726.56,0,5.9
+67,Larissa Cardoso 067,36,RH,Coordenador de RH,7503.43,22,2023-11-25,Pós-graduação,Solteiro(a),CLT,4.3,8,503.02,1,8.3
+68,Rafael Alves 068,28,TI,Desenvolvedor Pleno,6381.63,14,2024-07-22,Superior Completo,Casado(a),PJ,3.5,7,1028.47,1,5.3
+69,Aline Dias 069,66,Operações,Coordenador de Operações,7617.61,11,2024-10-20,Pós-graduação,Casado(a),PJ,3.9,8,313.22,5,7.3
+70,Maria Oliveira 070,28,Vendas,Vendedor Jr,2934.87,54,2021-04-09,Superior Completo,Divorciado(a),CLT,3.0,5,941.91,0,5.5
+71,Vinícius Melo 071,34,Marketing,Analista de Marketing Jr,4740.91,1,2025-08-16,Mestrado,Casado(a),CLT,3.8,6,557.51,2,8.7
+72,Carla Souza 072,24,RH,Analista de RH Pleno,5693.16,9,2024-12-19,Superior Completo,Casado(a),PJ,2.8,7,981.87,1,8.5
+73,Fábio Correia 073,36,Vendas,Gerente de Vendas,14388.26,51,2021-07-08,Pós-graduação,Casado(a),CLT,3.7,11,965.4,4,8.2
+74,Felipe Araújo 074,44,TI,Desenvolvedor Jr,4917.85,3,2025-06-17,Superior Completo,Casado(a),CLT,3.2,8,717.63,2,8.6
+75,Larissa Cardoso 075,41,Jurídico,Gerente Jurídico,13159.05,3,2025-06-17,Superior Completo,Solteiro(a),CLT,4.5,8,860.76,2,4.9
+76,Felipe Araújo 076,38,Marketing,Gerente de Marketing,11325.55,1,2025-08-16,Superior Incompleto,Solteiro(a),CLT,3.2,11,905.75,2,8.3
+77,Aline Dias 077,29,Jurídico,Advogado Sr,11740.33,4,2025-05-18,Pós-graduação,Casado(a),CLT,3.3,7,748.32,5,8.4
+78,Gustavo Moreira 078,24,Financeiro,Analista Financeiro Jr,3188.12,82,2018-12-21,Superior Completo,Solteiro(a),CLT,3.0,10,1125.86,1,6.8
+79,Marcelo Cunha 079,43,Financeiro,Analista Financeiro Jr,3627.72,91,2018-03-26,Superior Incompleto,Solteiro(a),Estágio,3.7,8,1116.52,2,7.6
+80,Marcelo Cunha 080,45,Vendas,Coordenador de Vendas,6513.68,14,2024-07-22,Superior Completo,Solteiro(a),PJ,2.8,6,758.94,2,7.6
+81,Cristina Ramos 081,26,Vendas,Vendedor Sr,8032.79,1,2025-08-16,Superior Completo,Viúvo(a),Terceirizado,2.5,12,627.62,1,7.5
+82,Cristina Ramos 082,30,TI,DevOps,7302.76,9,2024-12-19,Pós-graduação,Casado(a),Estágio,3.9,11,752.92,2,9.9
+83,Camila Martins 083,22,Financeiro,Analista Financeiro Jr,1170.99,9,2024-12-19,Técnico,Solteiro(a),CLT,,3,732.8,1,7.6
+84,Bruno Ferreira 084,37,Financeiro,Gerente Financeiro,11879.62,39,2022-07-03,Superior Completo,Solteiro(a),CLT,4.2,0,869.24,1,9.0
+85,Lucas Pereira 085,20,Marketing,Gerente de Marketing,10377.49,3,2025-06-17,Ensino Médio,Casado(a),CLT,3.9,10,976.95,1,8.1
+86,Ana Silva 086,27,Marketing,Coordenador de Marketing,6562.28,23,2023-10-26,Pós-graduação,Casado(a),CLT,2.5,9,696.42,2,7.4
+87,Aline Dias 087,46,Vendas,Vendedor Pleno,4796.36,27,2023-06-28,Superior Completo,Divorciado(a),CLT,3.2,9,699.48,2,6.2
+88,Aline Dias 088,53,Vendas,Vendedor Jr,3433.2,1,2025-08-16,Pós-graduação,Solteiro(a),PJ,5.0,7,1007.65,1,7.1
+89,Vinícius Melo 089,65,RH,Coordenador de RH,7051.0,13,2024-08-21,Técnico,Solteiro(a),CLT,3.0,8,1122.44,0,8.3
+90,Patrícia Lopes 090,27,Vendas,Coordenador de Vendas,6677.77,33,2022-12-30,Técnico,Divorciado(a),CLT,3.9,8,766.34,1,7.0
+91,Felipe Araújo 091,33,Vendas,Vendedor Pleno,4588.46,19,2024-02-23,Superior Completo,Solteiro(a),CLT,3.6,15,1006.51,1,8.7
+92,Carla Souza 092,32,Vendas,Vendedor Sr,8935.59,1,2025-08-16,Superior Completo,Casado(a),CLT,4.5,7,1079.14,1,7.8
+93,Cristina Ramos 093,65,Vendas,Vendedor Pleno,5004.82,4,2025-05-18,Superior Incompleto,Casado(a),CLT,2.1,12,729.0,3,5.8
+94,Gustavo Moreira 094,30,TI,QA Analyst,3867.08,3,2025-06-17,Superior Completo,Solteiro(a),Terceirizado,,11,850.75,2,7.7
+95,Eduardo Pinto 095,29,Financeiro,Analista Financeiro Jr,4297.71,69,2020-01-15,Doutorado,Casado(a),PJ,3.4,11,565.48,3,8.7
+96,Felipe Araújo 096,33,Operações,Coordenador de Operações,6857.98,23,2023-10-26,Pós-graduação,Solteiro(a),CLT,4.3,7,692.88,0,8.3
+97,Rodrigo Barbosa 097,29,Financeiro,Analista Financeiro Jr,4046.2,35,2022-10-31,Superior Completo,Solteiro(a),PJ,4.5,6,941.66,1,7.0
+98,Pedro Costa 098,39,Vendas,Vendedor Sr,9746.03,1,2025-08-16,Superior Completo,Casado(a),CLT,3.5,7,815.78,3,7.0
+99,Simone Campos 099,52,Operações,Coordenador de Operações,5645.12,1,2025-08-16,Técnico,Casado(a),CLT,2.6,10,956.44,0,6.1
+100,Rafael Alves 100,35,Vendas,Vendedor Jr,2613.7,10,2024-11-19,Superior Completo,Casado(a),CLT,4.4,11,904.45,5,5.8
+101,Rafael Alves 101,31,TI,Gerente de TI,15314.5,75,2019-07-19,Pós-graduação,Solteiro(a),CLT,1.2,6,803.38,2,8.5
+102,Maria Oliveira 102,47,Vendas,Vendedor Jr,3573.57,24,2023-09-26,Superior Completo,Solteiro(a),PJ,4.1,6,754.28,2,5.5
+103,André Teixeira 103,65,Marketing,Gerente de Marketing,13329.6,7,2025-02-17,Superior Completo,Solteiro(a),CLT,,6,630.68,4,8.1
+104,Patrícia Lopes 104,45,Operações,Analista de Operações,4107.83,8,2025-01-18,Superior Completo,Casado(a),CLT,3.1,11,720.49,4,8.4
+105,Cristina Ramos 105,35,TI,Gerente de TI,17797.16,1,2025-08-16,Superior Completo,Divorciado(a),Terceirizado,2.8,7,930.93,2,7.3
+106,Cristina Ramos 106,34,Marketing,Analista de Marketing Pleno,7010.92,26,2023-07-28,Ensino Médio,Solteiro(a),PJ,1.6,10,919.65,3,8.6
+107,Carla Souza 107,32,Financeiro,Gerente Financeiro,11084.43,77,2019-05-20,Pós-graduação,Solteiro(a),CLT,2.3,10,976.77,0,6.7
+108,Gustavo Moreira 108,60,Operações,Analista de Operações,3121.96,24,2023-09-26,Pós-graduação,Solteiro(a),Terceirizado,3.4,10,665.54,1,6.5
+109,Juliana Rocha 109,23,Financeiro,Gerente Financeiro,8352.84,3,2025-06-17,Superior Completo,Solteiro(a),PJ,2.9,12,619.33,1,6.9
+110,Fernanda Lima 110,43,Financeiro,Analista Financeiro Pleno,6031.63,14,2024-07-22,Superior Incompleto,Solteiro(a),PJ,3.4,59,933.23,3,6.6
+111,Renata Freitas 111,44,Vendas,Vendedor Sr,9036.32,11,2024-10-20,Mestrado,Solteiro(a),CLT,,11,482.31,2,8.2
+112,Larissa Cardoso 112,39,Marketing,Coordenador de Marketing,7780.16,28,2023-05-29,Superior Incompleto,Casado(a),PJ,3.2,15,1159.04,1,4.7
+113,Priscila Gomes 113,32,Financeiro,Gerente Financeiro,12363.65,16,2024-05-23,Pós-graduação,Casado(a),PJ,3.5,9,936.71,3,5.0
+114,Pedro Costa 114,22,RH,Analista de RH Pleno,5837.14,10,2024-11-19,Mestrado,Casado(a),CLT,2.3,8,1022.54,1,9.3
+115,Rafael Alves 115,31,TI,Desenvolvedor Jr,4157.72,1,2025-08-16,Superior Incompleto,Solteiro(a),CLT,2.2,8,615.63,3,5.5
+116,Camila Martins 116,30,TI,Desenvolvedor Jr,4316.63,23,2023-10-26,Superior Completo,Divorciado(a),Estágio,2.5,6,965.95,0,7.8
+117,Vanessa Castro 117,37,TI,Gerente de TI,17356.46,1,2025-08-16,,Solteiro(a),PJ,4.4,74,852.18,3,7.4
+118,Rafael Alves 118,27,Marketing,Analista de Marketing Pleno,6584.97,40,2022-06-03,Superior Completo,Casado(a),CLT,3.4,4,751.57,2,4.3
+119,Ana Silva 119,34,Financeiro,Analista Financeiro Jr,2844.16,8,2025-01-18,Superior Completo,Casado(a),CLT,3.6,10,569.28,3,7.2
+120,Renata Freitas 120,22,Marketing,Analista de Marketing Jr,4353.72,1,2025-08-16,Mestrado,Casado(a),PJ,3.0,5,619.64,3,6.8
+121,Rafael Alves 121,41,Marketing,Analista de Marketing Jr,3357.47,42,2022-04-04,Superior Completo,Casado(a),PJ,3.6,9,735.15,2,8.2
+122,Simone Campos 122,47,Vendas,Vendedor Jr,2712.51,16,2024-05-23,Superior Incompleto,Solteiro(a),CLT,4.8,11,706.69,1,8.8
+123,Vinícius Melo 123,28,Marketing,Coordenador de Marketing,9797.71,27,2023-06-28,Pós-graduação,Casado(a),Estágio,3.1,6,870.92,1,6.9
+124,Maria Oliveira 124,39,Financeiro,Analista Financeiro Pleno,7800.99,26,2023-07-28,Superior Completo,Casado(a),CLT,4.2,10,755.33,1,9.6
+125,Juliana Rocha 125,26,TI,DevOps,7193.49,45,2022-01-04,Superior Completo,Casado(a),CLT,3.4,9,709.49,2,6.8
+126,Rodrigo Barbosa 126,46,Operações,Analista de Operações,3166.67,2,2025-07-17,Pós-graduação,Solteiro(a),CLT,3.6,6,684.19,2,8.0
+127,Gustavo Moreira 127,23,Vendas,Vendedor Pleno,5102.96,8,2025-01-18,Superior Completo,Divorciado(a),CLT,4.4,12,1126.13,2,10.0
+128,André Teixeira 128,22,Marketing,Gerente de Marketing,10515.15,41,2022-05-04,Superior Completo,Solteiro(a),CLT,3.4,12,1061.66,3,8.1
+129,Rafael Alves 129,39,Financeiro,Gerente Financeiro,15725.32,9,2024-12-19,Ensino Médio,Solteiro(a),Estágio,2.6,5,593.65,0,8.7
+130,Fábio Correia 130,65,Marketing,Gerente de Marketing,12595.15,20,2024-01-24,Pós-graduação,Casado(a),CLT,3.8,14,1190.83,3,6.2
+131,Fernanda Lima 131,43,Marketing,Analista de Marketing Jr,4204.27,4,2025-05-18,Superior Completo,Casado(a),PJ,4.5,6,1137.0,4,7.4
+132,Pedro Costa 132,25,Vendas,Gerente de Vendas,15159.86,1,2025-08-16,Pós-graduação,Solteiro(a),PJ,4.8,7,979.07,1,6.1
+133,Diego Ribeiro 133,34,Operações,Coordenador de Operações,7477.48,1,2025-08-16,Superior Completo,Solteiro(a),CLT,3.1,7,760.71,1,6.9
+134,Thiago Nascimento 134,38,Vendas,Gerente de Vendas,9834.24,3,2025-06-17,Pós-graduação,Solteiro(a),CLT,2.7,6,416.38,2,6.8
+135,Vinícius Melo 135,37,Marketing,Analista de Marketing Jr,2972.87,16,2024-05-23,Pós-graduação,Viúvo(a),PJ,3.4,10,633.39,1,9.6
+136,Marcelo Cunha 136,34,Marketing,Analista de Marketing Jr,3277.16,12,2024-09-20,,Casado(a),CLT,4.3,7,380.66,1,8.3
+137,João Santos 137,27,Marketing,Gerente de Marketing,9820.17,41,2022-05-04,Pós-graduação,Solteiro(a),CLT,3.8,9,761.83,2,7.8
+138,André Teixeira 138,44,Financeiro,Contador,5495.57,15,2024-06-22,Pós-graduação,Solteiro(a),CLT,3.0,6,1187.84,4,4.9
+139,Fábio Correia 139,36,TI,QA Analyst,3742.28,57,2021-01-09,Superior Incompleto,Solteiro(a),CLT,3.9,73,1585.25,2,7.3
+140,Pedro Costa 140,38,RH,Analista de RH Pleno,5581.78,5,2025-04-18,Superior Completo,Solteiro(a),CLT,3.0,10,1041.69,1,9.6
+141,Fernanda Lima 141,36,Vendas,Vendedor Pleno,6900.14,58,2020-12-10,Superior Completo,Viúvo(a),Estágio,3.1,9,395.51,1,6.3
+142,Gustavo Moreira 142,29,Financeiro,Gerente Financeiro,10388.43,5,2025-04-18,Superior Completo,Solteiro(a),CLT,1.9,1,670.19,4,6.5
+143,Carla Souza 143,45,Financeiro,Gerente Financeiro,10280.22,8,2025-01-18,Superior Completo,Casado(a),CLT,,10,610.59,1,5.6
+144,Lucas Pereira 144,36,Operações,Coordenador de Operações,6221.54,68,2020-02-14,Técnico,Casado(a),CLT,4.8,4,838.14,3,7.4
+145,Priscila Gomes 145,38,Operações,Analista de Operações,4954.3,13,2024-08-21,Doutorado,Casado(a),CLT,2.9,3,951.45,3,7.2
+146,Vinícius Melo 146,36,TI,Desenvolvedor Jr,3700.59,10,2024-11-19,,Casado(a),CLT,3.7,44,794.63,1,6.2
+147,Priscila Gomes 147,48,RH,Analista de RH Jr,3439.56,12,2024-09-20,Superior Completo,Casado(a),CLT,3.7,10,618.6,1,5.2
+148,João Santos 148,31,TI,DevOps,8873.93,50,2021-08-07,Pós-graduação,Casado(a),CLT,3.1,14,830.38,3,8.9
+149,Gustavo Moreira 149,53,Vendas,Vendedor Jr,2000.0,20,2024-01-24,Pós-graduação,Divorciado(a),CLT,3.3,6,782.88,3,9.5
+150,Maria Oliveira 150,43,RH,Analista de RH Pleno,4433.16,18,2024-03-24,Técnico,Solteiro(a),CLT,4.0,6,573.47,1,7.5
+151,Lucas Pereira 151,32,Operações,Coordenador de Operações,6467.37,62,2020-08-12,Ensino Médio,Casado(a),CLT,3.0,3,778.76,0,4.4
+152,Rodrigo Barbosa 152,46,Jurídico,Gerente Jurídico,14855.52,56,2021-02-08,Mestrado,Solteiro(a),CLT,2.7,7,968.4,0,6.4
+153,Fernanda Lima 153,34,TI,QA Analyst,4957.57,9,2024-12-19,Pós-graduação,Solteiro(a),CLT,4.0,7,325.95,2,5.0
+154,Larissa Cardoso 154,41,Operações,Analista de Operações,3398.67,6,2025-03-19,Superior Incompleto,Viúvo(a),Terceirizado,2.9,10,921.04,3,8.7
+155,Lucas Pereira 155,22,RH,Gerente de RH,8823.26,45,2022-01-04,Doutorado,Solteiro(a),CLT,4.2,4,908.57,3,8.4
+156,Ana Silva 156,38,Vendas,Gerente de Vendas,15001.0,20,2024-01-24,Superior Completo,Casado(a),CLT,4.7,9,630.63,3,8.9
+157,Juliana Rocha 157,26,TI,QA Analyst,7076.92,4,2025-05-18,Superior Completo,Divorciado(a),CLT,4.3,7,549.02,1,7.3
+158,Fábio Correia 158,22,RH,Gerente de RH,10957.99,70,2019-12-16,Superior Incompleto,Casado(a),CLT,4.3,1,752.38,3,7.1
+159,Bruno Ferreira 159,36,Vendas,Gerente de Vendas,13163.68,12,2024-09-20,Superior Completo,Solteiro(a),CLT,4.2,1,944.23,4,7.1
+160,Renata Freitas 160,28,Vendas,Coordenador de Vendas,5541.65,9,2024-12-19,Pós-graduação,Casado(a),CLT,3.0,10,867.71,0,5.6
+161,Marcelo Cunha 161,43,Marketing,Gerente de Marketing,12352.55,16,2024-05-23,Técnico,Divorciado(a),CLT,4.1,5,1087.89,3,8.8
+162,Carla Souza 162,53,TI,Desenvolvedor Pleno,9717.22,8,2025-01-18,Técnico,Casado(a),PJ,3.5,13,1044.74,3,5.2
+163,Bruno Ferreira 163,36,Operações,Analista de Operações,3412.71,11,2024-10-20,Pós-graduação,Casado(a),CLT,3.4,9,701.13,0,7.6
+164,João Santos 164,36,TI,Gerente de TI,18264.59,9,2024-12-19,Superior Completo,Divorciado(a),CLT,4.9,5,1021.18,1,6.2
+165,André Teixeira 165,22,Marketing,Analista de Marketing Jr,3078.52,3,2025-06-17,Técnico,Divorciado(a),Terceirizado,5.0,10,522.8,1,6.8
+166,André Teixeira 166,31,Marketing,Coordenador de Marketing,8224.11,39,2022-07-03,Superior Completo,Solteiro(a),CLT,3.9,6,968.15,1,7.3
+167,João Santos 167,20,Vendas,Vendedor Jr,2381.7,16,2024-05-23,Pós-graduação,Solteiro(a),CLT,3.3,5,,0,6.5
+168,Vanessa Castro 168,29,Operações,Coordenador de Operações,7960.85,18,2024-03-24,Superior Completo,Divorciado(a),Terceirizado,4.6,3,511.45,2,6.7
+169,Aline Dias 169,34,TI,QA Analyst,5665.2,7,2025-02-17,Superior Incompleto,Solteiro(a),CLT,3.5,14,994.04,1,5.2
+170,Aline Dias 170,49,Vendas,Vendedor Pleno,4246.02,1,2025-08-16,Superior Completo,Solteiro(a),CLT,3.5,5,898.17,4,8.8
+171,João Santos 171,26,Jurídico,Advogado Jr,5384.21,22,2023-11-25,Técnico,Solteiro(a),Terceirizado,3.4,5,861.22,3,8.2
+172,Vinícius Melo 172,22,TI,Desenvolvedor Pleno,9618.69,12,2024-09-20,Pós-graduação,Solteiro(a),CLT,2.4,9,599.36,0,5.4
+173,Maria Oliveira 173,44,Financeiro,Analista Financeiro Jr,3834.73,13,2024-08-21,Superior Incompleto,Solteiro(a),CLT,2.4,6,665.69,0,7.2
+174,Marcelo Cunha 174,32,Financeiro,Analista Financeiro Pleno,5962.23,7,2025-02-17,Pós-graduação,Solteiro(a),CLT,2.7,8,796.94,2,6.4
+175,Larissa Cardoso 175,38,Financeiro,Analista Financeiro Jr,10803.7,11,2024-10-20,Superior Incompleto,Solteiro(a),CLT,4.8,11,721.7,1,6.8
+176,Simone Campos 176,66,Operações,Gerente de Operações,13728.45,34,2022-11-30,Pós-graduação,Casado(a),CLT,3.5,13,,3,7.1
+177,Rafael Alves 177,39,Vendas,Coordenador de Vendas,6334.0,11,2024-10-20,Superior Completo,Casado(a),PJ,3.8,7,,4,7.5
+178,Felipe Araújo 178,36,RH,Analista de RH Jr,4265.93,3,2025-06-17,Pós-graduação,Casado(a),CLT,3.5,12,787.06,0,7.1
+179,Felipe Araújo 179,32,Financeiro,Analista Financeiro Jr,4398.5,43,2022-03-05,Pós-graduação,Solteiro(a),Terceirizado,2.4,14,842.32,2,8.5
+180,Thiago Nascimento 180,29,Vendas,Coordenador de Vendas,7025.09,11,2024-10-20,Pós-graduação,Casado(a),CLT,3.3,9,1079.86,2,6.4
+181,Vanessa Castro 181,41,Vendas,Coordenador de Vendas,6130.39,9,2024-12-19,Pós-graduação,Casado(a),CLT,,5,775.59,0,7.2
+182,Camila Martins 182,32,Operações,Coordenador de Operações,7035.6,11,2024-10-20,Ensino Médio,Solteiro(a),PJ,2.7,6,661.55,4,4.0
+183,Fernanda Lima 183,34,Financeiro,Contador,8355.64,33,2022-12-30,Superior Incompleto,Casado(a),CLT,3.7,5,474.88,1,5.4
+184,Rafael Alves 184,28,TI,Desenvolvedor Sr,12423.7,12,2024-09-20,Superior Incompleto,Solteiro(a),CLT,2.4,7,723.04,1,7.4
+185,Larissa Cardoso 185,38,TI,Desenvolvedor Pleno,6973.7,1,2025-08-16,Superior Completo,Solteiro(a),CLT,3.3,9,844.07,1,6.2
+186,Marcelo Cunha 186,27,Marketing,Coordenador de Marketing,8948.45,19,2024-02-23,Mestrado,Solteiro(a),CLT,4.5,4,720.46,1,5.2
+187,Priscila Gomes 187,34,Financeiro,Contador,8219.0,10,2024-11-19,Técnico,Casado(a),PJ,2.6,9,897.51,1,6.1
+188,Eduardo Pinto 188,29,Vendas,Vendedor Jr,3723.95,41,2022-05-04,Superior Completo,Solteiro(a),CLT,4.2,65,679.17,0,4.9
+189,Ana Silva 189,34,TI,Analista de Sistemas,5805.95,8,2025-01-18,Pós-graduação,Casado(a),PJ,3.8,9,1130.72,0,6.6
+190,Felipe Araújo 190,22,TI,Gerente de TI,14677.99,78,2019-04-20,Superior Completo,Solteiro(a),CLT,4.1,15,689.13,3,9.9
+191,Pedro Costa 191,29,Financeiro,Analista Financeiro Jr,3269.52,15,2024-06-22,Mestrado,Solteiro(a),CLT,2.8,7,282.32,2,8.0
+192,Gustavo Moreira 192,47,Financeiro,Analista Financeiro Pleno,6558.58,25,2023-08-27,Superior Completo,Divorciado(a),CLT,3.8,7,907.53,1,
+193,Aline Dias 193,52,TI,Desenvolvedor Sr,13026.91,5,2025-04-18,Superior Completo,Casado(a),CLT,3.4,11,752.1,1,7.5
+194,Carla Souza 194,35,Financeiro,Contador,8607.49,26,2023-07-28,Pós-graduação,Casado(a),CLT,4.7,9,404.9,4,8.1
+195,Simone Campos 195,39,TI,Desenvolvedor Jr,2268.01,15,2024-06-22,Superior Incompleto,Casado(a),PJ,5.0,5,875.42,0,5.5
+196,Simone Campos 196,36,TI,Desenvolvedor Pleno,7411.05,7,2025-02-17,Superior Completo,Solteiro(a),PJ,3.0,6,856.11,2,8.5
+197,Diego Ribeiro 197,28,Marketing,Coordenador de Marketing,9148.04,62,2020-08-12,Superior Completo,Casado(a),CLT,3.5,9,662.22,3,9.2
+198,Lucas Pereira 198,38,Vendas,Gerente de Vendas,13349.82,3,2025-06-17,Ensino Médio,Solteiro(a),CLT,3.7,9,722.33,2,6.5
+199,Patrícia Lopes 199,19,Marketing,Coordenador de Marketing,4932.42,23,2023-10-26,Superior Incompleto,Casado(a),Estágio,3.6,7,647.19,1,5.4
+200,Felipe Araújo 200,26,TI,QA Analyst,4089.82,23,2023-10-26,Superior Incompleto,Solteiro(a),CLT,4.3,8,878.81,1,9.7
+201,Tatiane Mendes 201,41,TI,Gerente de TI,16431.35,65,2020-05-14,Superior Incompleto,Casado(a),PJ,2.2,11,958.21,2,7.6
+202,Ana Silva 202,32,TI,DevOps,9567.21,1,2025-08-16,Superior Completo,Casado(a),CLT,3.1,10,986.27,2,4.6
+203,Patrícia Lopes 203,32,Vendas,Coordenador de Vendas,5880.56,24,2023-09-26,Superior Completo,Divorciado(a),CLT,3.5,3,903.01,0,4.4
+204,Bruno Ferreira 204,35,RH,Analista de RH Jr,2399.76,36,2022-10-01,Mestrado,Casado(a),PJ,,6,796.16,3,5.8
+205,Simone Campos 205,45,TI,Desenvolvedor Pleno,9551.43,7,2025-02-17,Superior Incompleto,Divorciado(a),Terceirizado,3.3,11,889.49,0,6.5
+206,Juliana Rocha 206,34,TI,Desenvolvedor Jr,4400.42,8,2025-01-18,Ensino Médio,Solteiro(a),CLT,3.7,5,670.74,3,5.8
+207,Simone Campos 207,41,TI,Desenvolvedor Jr,4536.69,1,2025-08-16,Técnico,Casado(a),CLT,2.4,10,1191.73,3,7.2
+208,André Teixeira 208,32,TI,Gerente de TI,14030.99,41,2022-05-04,,Casado(a),CLT,3.8,3,679.52,3,6.5
+209,Carla Souza 209,20,Marketing,Coordenador de Marketing,9248.61,32,2023-01-29,Superior Incompleto,Solteiro(a),CLT,3.9,5,713.94,1,5.5
+210,Bruno Ferreira 210,28,TI,Gerente de TI,12808.23,11,2024-10-20,Pós-graduação,Solteiro(a),CLT,4.1,10,,3,5.6
+211,Fernanda Lima 211,42,Vendas,Vendedor Sr,9315.98,6,2025-03-19,Superior Incompleto,Casado(a),CLT,4.4,11,1120.82,1,5.3
+212,Fernanda Lima 212,28,Marketing,Coordenador de Marketing,7276.44,39,2022-07-03,Técnico,Casado(a),CLT,3.8,8,581.58,2,7.2
+213,Aline Dias 213,35,TI,Analista de Sistemas,6948.53,2,2025-07-17,Técnico,Solteiro(a),CLT,4.2,4,872.24,4,5.6
+214,Juliana Rocha 214,42,RH,Analista de RH Jr,1736.03,43,2022-03-05,Pós-graduação,Casado(a),CLT,3.4,11,779.14,3,6.0
+215,Maria Oliveira 215,34,Marketing,Gerente de Marketing,11379.67,10,2024-11-19,Pós-graduação,Divorciado(a),CLT,4.4,5,1053.09,1,8.5
+216,Patrícia Lopes 216,39,TI,Desenvolvedor Sr,12559.54,2,2025-07-17,Superior Completo,Solteiro(a),CLT,2.2,8,1029.93,0,7.4
+217,João Santos 217,30,TI,Desenvolvedor Jr,5170.23,21,2023-12-25,Mestrado,Casado(a),CLT,4.1,7,1079.72,0,7.5
+218,Camila Martins 218,45,RH,Analista de RH Pleno,6197.79,33,2022-12-30,Superior Incompleto,Solteiro(a),CLT,3.9,7,884.14,2,6.1
+219,Tatiane Mendes 219,38,RH,Coordenador de RH,6506.66,33,2022-12-30,Mestrado,Solteiro(a),Terceirizado,3.1,10,428.12,3,6.1
+220,Lucas Pereira 220,27,TI,DevOps,8759.81,3,2025-06-17,Pós-graduação,Solteiro(a),CLT,2.8,4,1194.56,2,7.6
+221,Priscila Gomes 221,36,TI,Gerente de TI,17126.73,114,2016-05-05,Pós-graduação,Divorciado(a),Estágio,3.9,12,624.31,2,6.8
+222,Renata Freitas 222,34,Vendas,Gerente de Vendas,14507.73,30,2023-03-30,Superior Completo,Casado(a),CLT,4.2,5,958.37,2,6.1
+223,Gustavo Moreira 223,35,RH,Analista de RH Jr,3612.17,3,2025-06-17,Superior Completo,Casado(a),CLT,3.1,5,630.13,3,8.1
+224,Pedro Costa 224,36,Marketing,Analista de Marketing Jr,4432.45,4,2025-05-18,Superior Completo,Casado(a),CLT,3.1,10,581.57,0,6.6
+225,Simone Campos 225,29,TI,DevOps,8095.77,9,2024-12-19,Superior Completo,Casado(a),CLT,2.5,65,804.49,2,6.5
+226,Simone Campos 226,39,Jurídico,Advogado Pleno,6485.27,1,2025-08-16,Técnico,Divorciado(a),PJ,2.6,5,219.77,0,7.5
+227,Gustavo Moreira 227,47,Vendas,Vendedor Jr,3305.31,2,2025-07-17,Superior Completo,Divorciado(a),Estágio,2.9,11,640.67,1,6.5
+228,Patrícia Lopes 228,34,Operações,Coordenador de Operações,8485.01,8,2025-01-18,Superior Completo,Solteiro(a),CLT,4.2,6,835.93,4,4.7
+229,Vanessa Castro 229,28,TI,Gerente de TI,14391.99,8,2025-01-18,Pós-graduação,Solteiro(a),CLT,3.3,8,1012.79,0,7.4
+230,Carla Souza 230,30,RH,Gerente de RH,10906.18,18,2024-03-24,Superior Incompleto,Casado(a),CLT,3.1,10,824.45,5,6.2
+231,Carla Souza 231,29,TI,Desenvolvedor Jr,3782.27,18,2024-03-24,Superior Completo,Divorciado(a),CLT,3.2,6,889.92,5,6.8
+232,Bruno Ferreira 232,35,Vendas,Vendedor Sr,8036.97,55,2021-03-10,Superior Completo,Solteiro(a),CLT,3.4,8,850.92,0,8.7
+233,Simone Campos 233,23,TI,QA Analyst,4387.74,21,2023-12-25,Superior Incompleto,Casado(a),CLT,3.0,14,1021.65,3,8.6
+234,Vinícius Melo 234,25,Vendas,Vendedor Jr,2995.19,31,2023-02-28,Pós-graduação,Solteiro(a),PJ,,9,538.63,1,6.6
+235,Simone Campos 235,47,Marketing,Coordenador de Marketing,8669.76,1,2025-08-16,Pós-graduação,Divorciado(a),CLT,1.1,4,715.23,1,9.6
+236,Fernanda Lima 236,42,TI,DevOps,8184.17,24,2023-09-26,Superior Completo,Divorciado(a),CLT,2.7,49,672.7,0,7.1
+237,Rafael Alves 237,67,TI,DevOps,8888.43,1,2025-08-16,Superior Completo,Solteiro(a),PJ,5.0,8,431.0,3,8.2
+238,Pedro Costa 238,33,Vendas,Vendedor Sr,7550.42,2,2025-07-17,Superior Completo,Casado(a),CLT,3.5,11,994.32,2,6.3
+239,Cristina Ramos 239,44,TI,Gerente de TI,15109.66,1,2025-08-16,Pós-graduação,Casado(a),CLT,1.7,8,715.69,0,6.3
+240,Simone Campos 240,32,TI,QA Analyst,5990.46,2,2025-07-17,Mestrado,Casado(a),CLT,3.2,11,779.24,5,7.2
+241,Thiago Nascimento 241,44,Operações,Gerente de Operações,10245.38,3,2025-06-17,Pós-graduação,Solteiro(a),CLT,3.0,9,587.37,2,7.6
+242,André Teixeira 242,49,Vendas,Vendedor Pleno,4906.51,10,2024-11-19,Pós-graduação,Solteiro(a),CLT,3.7,6,530.56,3,6.2
+243,Eduardo Pinto 243,22,TI,Desenvolvedor Pleno,9148.77,26,2023-07-28,Pós-graduação,Casado(a),CLT,3.1,11,597.07,4,6.0
+244,Vinícius Melo 244,29,Operações,Analista de Operações,4003.43,22,2023-11-25,Superior Completo,Divorciado(a),PJ,3.8,7,552.09,2,6.6
+245,Fábio Correia 245,44,RH,Analista de RH Pleno,4703.79,19,2024-02-23,Superior Incompleto,Casado(a),CLT,3.8,10,685.73,0,6.2
+246,Simone Campos 246,40,Vendas,Gerente de Vendas,13555.53,7,2025-02-17,Superior Completo,Casado(a),CLT,4.2,8,447.81,4,5.3
+247,Ana Silva 247,39,TI,Desenvolvedor Pleno,6254.75,22,2023-11-25,Superior Completo,Solteiro(a),PJ,5.0,2,947.54,7,5.4
+248,André Teixeira 248,27,Vendas,Vendedor Sr,8863.1,38,2022-08-02,Superior Incompleto,Solteiro(a),CLT,5.0,11,928.86,2,
+249,Fábio Correia 249,33,Vendas,Gerente de Vendas,12988.44,98,2017-08-28,Superior Incompleto,Divorciado(a),CLT,3.5,6,1069.68,1,8.1
+250,Fábio Correia 250,39,Financeiro,Analista Financeiro Pleno,6465.7,57,2021-01-09,Mestrado,Divorciado(a),CLT,4.2,5,980.74,0,8.3
+251,Juliana Rocha 251,46,Jurídico,Advogado Pleno,7255.56,28,2023-05-29,Superior Completo,Solteiro(a),CLT,1.8,8,846.87,3,8.4
+252,Fábio Correia 252,24,Operações,Gerente de Operações,12485.24,19,2024-02-23,Superior Incompleto,Solteiro(a),CLT,2.5,12,763.75,1,6.5
+253,Pedro Costa 253,54,Vendas,Gerente de Vendas,11781.97,69,2020-01-15,Técnico,Casado(a),CLT,4.2,8,992.69,1,9.6
+254,Vinícius Melo 254,44,Vendas,Vendedor Jr,3288.99,86,2018-08-23,Pós-graduação,Solteiro(a),CLT,3.2,10,763.33,1,4.4
+255,Vinícius Melo 255,34,Financeiro,Gerente Financeiro,11214.68,13,2024-08-21,Pós-graduação,Solteiro(a),PJ,4.3,7,708.26,3,6.7
+256,Rafael Alves 256,50,RH,Analista de RH Pleno,6562.1,49,2021-09-06,Pós-graduação,Casado(a),CLT,3.8,6,904.76,2,8.9
+257,Patrícia Lopes 257,22,Vendas,Gerente de Vendas,11133.37,38,2022-08-02,Ensino Médio,Solteiro(a),PJ,2.4,6,760.48,4,4.6
+258,Diego Ribeiro 258,35,Marketing,Coordenador de Marketing,7587.05,15,2024-06-22,Pós-graduação,Solteiro(a),CLT,2.6,13,745.0,1,5.9
+259,Patrícia Lopes 259,34,Marketing,Analista de Marketing Pleno,8001.64,22,2023-11-25,Superior Completo,Solteiro(a),CLT,4.8,57,1232.62,1,8.7
+260,Rafael Alves 260,36,Financeiro,Analista Financeiro Jr,4422.68,9,2024-12-19,Superior Completo,Casado(a),PJ,2.6,6,,3,8.6
+261,Marcelo Cunha 261,39,Marketing,Analista de Marketing Pleno,6657.32,39,2022-07-03,Superior Completo,Solteiro(a),Estágio,3.5,9,543.63,0,4.6
+262,Larissa Cardoso 262,48,RH,Coordenador de RH,9310.44,32,2023-01-29,Doutorado,Casado(a),CLT,1.8,10,835.43,3,8.0
+263,Juliana Rocha 263,27,Vendas,Vendedor Jr,2789.3,31,2023-02-28,Superior Completo,Casado(a),Estágio,2.9,49,604.05,4,6.4
+264,Cristina Ramos 264,28,Marketing,Coordenador de Marketing,5871.24,5,2025-04-18,Superior Incompleto,Solteiro(a),CLT,3.6,8,730.97,4,7.5
+265,Diego Ribeiro 265,19,RH,Gerente de RH,7889.58,7,2025-02-17,Superior Completo,Casado(a),CLT,4.1,5,884.6,2,6.7
+266,Marcelo Cunha 266,31,Operações,Gerente de Operações,9448.66,2,2025-07-17,Técnico,Casado(a),CLT,4.1,15,707.29,1,8.2
+267,Camila Martins 267,35,Vendas,Vendedor Jr,3927.26,10,2024-11-19,Superior Completo,Casado(a),PJ,3.2,8,396.72,2,4.6
+268,Pedro Costa 268,24,RH,Coordenador de RH,8625.14,27,2023-06-28,Superior Incompleto,Solteiro(a),CLT,3.1,55,866.24,5,9.4
+269,Lucas Pereira 269,38,Jurídico,Advogado Sr,8621.55,21,2023-12-25,Técnico,Casado(a),PJ,2.4,40,1227.13,2,8.5
+270,João Santos 270,34,Marketing,Analista de Marketing Jr,7298.25,24,2023-09-26,Técnico,Casado(a),CLT,1.6,53,1180.05,3,8.5
+271,Felipe Araújo 271,44,Vendas,Gerente de Vendas,14772.58,2,2025-07-17,Mestrado,Casado(a),CLT,2.9,6,876.53,0,6.7
+272,Diego Ribeiro 272,42,Financeiro,Contador,6474.86,57,2021-01-09,Superior Incompleto,Solteiro(a),Estágio,3.2,9,735.92,1,4.3
+273,Thiago Nascimento 273,37,Marketing,Analista de Marketing Jr,4000.05,3,2025-06-17,Superior Completo,Casado(a),PJ,2.9,12,972.96,3,4.5
+274,Larissa Cardoso 274,32,TI,Gerente de TI,14382.14,2,2025-07-17,Superior Completo,Casado(a),CLT,4.2,11,1056.81,2,1.7
+275,Fernanda Lima 275,27,TI,Desenvolvedor Sr,11384.72,2,2025-07-17,Pós-graduação,Divorciado(a),Estágio,3.0,7,501.19,2,7.9
+276,João Santos 276,32,Jurídico,Gerente Jurídico,12683.55,1,2025-08-16,Pós-graduação,Divorciado(a),CLT,3.5,11,872.35,3,7.5
+277,Ana Silva 277,22,Marketing,Analista de Marketing Pleno,5667.08,26,2023-07-28,Pós-graduação,Casado(a),CLT,3.2,7,318.99,0,7.5
+278,Diego Ribeiro 278,27,TI,Analista de Sistemas,4407.85,44,2022-02-03,Superior Completo,Casado(a),CLT,3.8,6,468.72,1,6.2
+279,Maria Oliveira 279,42,Operações,Gerente de Operações,4320.92,8,2025-01-18,Superior Incompleto,Casado(a),CLT,3.0,9,762.82,1,3.7
+280,Eduardo Pinto 280,65,TI,Desenvolvedor Sr,12492.35,77,2019-05-20,Superior Completo,Solteiro(a),PJ,3.5,55,568.36,4,9.9
+281,Felipe Araújo 281,22,Operações,Coordenador de Operações,6869.25,5,2025-04-18,Superior Completo,Casado(a),CLT,1.6,6,550.04,3,6.6
+282,Marcelo Cunha 282,30,TI,QA Analyst,4118.56,1,2025-08-16,Superior Completo,Casado(a),CLT,3.6,6,1072.43,3,4.8
+283,Pedro Costa 283,49,Vendas,Vendedor Sr,7928.76,8,2025-01-18,Superior Completo,Solteiro(a),CLT,4.5,6,1048.68,1,8.8
+284,Aline Dias 284,29,TI,Desenvolvedor Sr,10744.11,3,2025-06-17,Superior Completo,Solteiro(a),CLT,3.0,7,841.66,4,6.8
+285,Marcelo Cunha 285,22,Vendas,Gerente de Vendas,9496.93,43,2022-03-05,Ensino Médio,Solteiro(a),CLT,2.3,70,721.49,3,7.3
+286,Camila Martins 286,27,Jurídico,Gerente Jurídico,14022.32,5,2025-04-18,Superior Completo,Divorciado(a),PJ,3.6,12,1301.47,2,8.2
+287,Renata Freitas 287,40,Vendas,Vendedor Sr,8389.77,37,2022-09-01,Superior Incompleto,Casado(a),PJ,3.6,9,937.43,4,6.4
+288,Gustavo Moreira 288,28,TI,Desenvolvedor Pleno,7757.68,16,2024-05-23,Superior Completo,Solteiro(a),CLT,3.6,6,1031.39,2,6.3
+289,Fernanda Lima 289,37,Jurídico,Gerente Jurídico,10982.11,6,2025-03-19,Ensino Médio,Divorciado(a),Terceirizado,,13,822.21,1,7.2
+290,Marcelo Cunha 290,39,Financeiro,Gerente Financeiro,10515.78,59,2020-11-10,Mestrado,Solteiro(a),CLT,3.7,10,845.95,0,5.7
+291,Marcelo Cunha 291,45,RH,Analista de RH Pleno,5264.68,20,2024-01-24,Pós-graduação,Viúvo(a),CLT,,7,562.3,2,6.1
+292,Felipe Araújo 292,36,Marketing,Coordenador de Marketing,9137.63,39,2022-07-03,Pós-graduação,Casado(a),PJ,,8,784.85,1,8.1
+293,Larissa Cardoso 293,35,Marketing,Analista de Marketing Jr,3639.63,20,2024-01-24,Superior Completo,Solteiro(a),CLT,3.4,9,980.84,0,5.5
+294,Bruno Ferreira 294,42,TI,Desenvolvedor Sr,13162.78,1,2025-08-16,Pós-graduação,Solteiro(a),CLT,3.2,5,797.01,0,5.2
+295,Fernanda Lima 295,32,TI,Analista de Sistemas,7517.73,39,2022-07-03,Pós-graduação,Viúvo(a),CLT,3.0,10,680.81,0,6.9
+296,Fábio Correia 296,45,Operações,Gerente de Operações,10143.39,17,2024-04-23,Pós-graduação,Viúvo(a),CLT,,5,944.02,4,6.3
+297,Felipe Araújo 297,41,Operações,Gerente de Operações,11606.52,13,2024-08-21,Superior Completo,Divorciado(a),CLT,4.6,11,603.03,2,7.9
+298,Camila Martins 298,35,RH,Gerente de RH,7520.89,6,2025-03-19,Pós-graduação,Divorciado(a),CLT,4.9,10,534.53,2,7.3
+299,Priscila Gomes 299,33,TI,Analista de Sistemas,5000.85,43,2022-03-05,Técnico,Casado(a),CLT,4.0,9,809.18,0,8.9
+300,Marcelo Cunha 300,41,Marketing,Analista de Marketing Pleno,6303.27,8,2025-01-18,Ensino Médio,Casado(a),CLT,,10,747.38,2,7.0
+301,Aline Dias 301,27,Marketing,Gerente de Marketing,9802.1,15,2024-06-22,Pós-graduação,Casado(a),CLT,4.7,10,782.43,2,6.7
+302,Fábio Correia 302,31,Operações,Gerente de Operações,13075.15,22,2023-11-25,Superior Completo,Solteiro(a),CLT,3.3,6,1104.14,0,7.4
+303,Lucas Pereira 303,31,Vendas,Vendedor Jr,2971.81,10,2024-11-19,Superior Completo,Solteiro(a),CLT,3.1,10,1002.27,5,8.0
+304,Bruno Ferreira 304,42,Marketing,Coordenador de Marketing,9928.46,6,2025-03-19,Ensino Médio,Solteiro(a),PJ,3.3,3,730.65,3,4.0
+305,Maria Oliveira 305,33,Operações,Analista de Operações,3471.39,58,2020-12-10,Técnico,Casado(a),CLT,3.8,11,718.17,3,7.2
+306,Marcelo Cunha 306,29,Vendas,Vendedor Sr,9007.79,5,2025-04-18,Superior Completo,Solteiro(a),PJ,2.9,6,559.82,4,6.0
+307,Rafael Alves 307,35,Marketing,Analista de Marketing Pleno,6696.51,15,2024-06-22,Técnico,Casado(a),CLT,4.0,10,697.64,1,7.8
+308,Carla Souza 308,25,Financeiro,Analista Financeiro Jr,3260.11,31,2023-02-28,Superior Completo,Solteiro(a),CLT,4.1,11,811.61,3,8.1
+309,João Santos 309,30,Financeiro,Analista Financeiro Pleno,6422.6,23,2023-10-26,Superior Completo,Casado(a),CLT,3.9,5,792.18,0,6.8
+310,Rodrigo Barbosa 310,35,Vendas,Coordenador de Vendas,6461.41,19,2024-02-23,Pós-graduação,Solteiro(a),CLT,4.7,8,775.13,2,5.4
+311,Vinícius Melo 311,39,Operações,Analista de Operações,3997.53,3,2025-06-17,Técnico,Viúvo(a),CLT,,7,575.19,4,7.8
+312,Priscila Gomes 312,31,TI,Analista de Sistemas,15561.84,113,2016-06-04,Técnico,Solteiro(a),CLT,2.3,3,823.0,4,6.7
+313,Simone Campos 313,27,Financeiro,Analista Financeiro Pleno,6453.26,39,2022-07-03,Superior Completo,Viúvo(a),PJ,4.0,13,856.02,1,4.1
+314,Renata Freitas 314,44,Vendas,Gerente de Vendas,9713.44,14,2024-07-22,Técnico,Solteiro(a),CLT,2.7,7,1079.44,1,1.8
+315,Rodrigo Barbosa 315,65,Operações,Coordenador de Operações,2722.96,22,2023-11-25,Mestrado,Divorciado(a),CLT,2.7,63,1058.49,3,7.0
+316,Rafael Alves 316,28,Jurídico,Advogado Pleno,7607.88,24,2023-09-26,Superior Incompleto,Solteiro(a),CLT,3.9,6,149.1,1,8.8
+317,Tatiane Mendes 317,40,RH,Analista de RH Jr,3005.27,46,2021-12-05,Pós-graduação,Casado(a),PJ,2.6,7,797.0,4,9.2
+318,Simone Campos 318,33,Operações,Analista de Operações,3920.2,33,2022-12-30,Superior Completo,Solteiro(a),CLT,2.4,5,850.75,0,4.3
+319,Cristina Ramos 319,32,TI,Analista de Sistemas,5547.08,17,2024-04-23,Superior Incompleto,Casado(a),CLT,3.3,8,1109.0,1,8.4
+320,Rafael Alves 320,38,Vendas,Vendedor Pleno,4392.71,2,2025-07-17,Superior Completo,Solteiro(a),CLT,3.7,14,581.95,0,6.8
+321,Fábio Correia 321,30,Financeiro,Gerente Financeiro,12259.1,7,2025-02-17,Mestrado,Solteiro(a),CLT,3.2,6,647.52,0,5.4
+322,João Santos 322,49,Vendas,Coordenador de Vendas,5972.78,28,2023-05-29,Superior Completo,Divorciado(a),CLT,,9,966.63,2,6.1
+323,Rafael Alves 323,31,Marketing,Analista de Marketing Jr,2592.22,49,2021-09-06,Mestrado,Casado(a),PJ,3.1,4,849.36,0,4.6
+324,Priscila Gomes 324,35,TI,Desenvolvedor Pleno,7392.59,4,2025-05-18,Ensino Médio,Casado(a),Estágio,2.6,9,,3,6.1
+325,Fábio Correia 325,34,Vendas,Gerente de Vendas,13439.3,14,2024-07-22,Pós-graduação,Casado(a),CLT,2.6,8,748.91,1,8.6
+326,Marcelo Cunha 326,34,Marketing,Coordenador de Marketing,8681.93,17,2024-04-23,Pós-graduação,Solteiro(a),CLT,4.4,7,922.99,2,7.8
+327,Cristina Ramos 327,41,Operações,Coordenador de Operações,7086.84,14,2024-07-22,Técnico,Solteiro(a),PJ,2.9,6,498.68,2,8.6
+328,Felipe Araújo 328,34,Financeiro,Gerente Financeiro,37988.03,32,2023-01-29,Superior Incompleto,Casado(a),PJ,3.9,10,964.82,1,6.8
+329,Patrícia Lopes 329,44,TI,Gerente de TI,5754.19,47,2021-11-05,Superior Completo,Casado(a),CLT,4.3,7,573.57,1,3.5
+330,Priscila Gomes 330,48,Vendas,Vendedor Pleno,4317.26,12,2024-09-20,Superior Completo,Solteiro(a),CLT,4.1,7,1198.41,1,9.8
+331,André Teixeira 331,23,Vendas,Gerente de Vendas,11977.86,9,2024-12-19,Superior Completo,Casado(a),CLT,3.9,4,649.85,0,6.0
+332,Priscila Gomes 332,30,Vendas,Vendedor Sr,10929.47,21,2023-12-25,Pós-graduação,Solteiro(a),CLT,3.8,10,989.83,4,6.7
+333,Cristina Ramos 333,30,Vendas,Vendedor Pleno,4008.24,30,2023-03-30,Técnico,Casado(a),CLT,2.4,8,708.96,2,8.5
+334,Patrícia Lopes 334,60,TI,DevOps,7319.94,4,2025-05-18,Superior Completo,Divorciado(a),CLT,3.9,6,914.43,0,7.9
+335,Juliana Rocha 335,28,Vendas,Coordenador de Vendas,6064.9,12,2024-09-20,Pós-graduação,Solteiro(a),CLT,3.0,8,1032.68,2,7.0
+336,Rodrigo Barbosa 336,25,TI,DevOps,7943.82,115,2016-04-05,Pós-graduação,Solteiro(a),CLT,4.2,6,935.57,2,9.5
+337,Rafael Alves 337,32,TI,Desenvolvedor Sr,13264.56,9,2024-12-19,Pós-graduação,Solteiro(a),PJ,2.3,9,666.31,0,7.3
+338,Priscila Gomes 338,35,RH,Analista de RH Jr,2969.74,15,2024-06-22,Pós-graduação,Casado(a),CLT,3.5,5,656.42,2,9.6
+339,Renata Freitas 339,32,Operações,Coordenador de Operações,6294.69,5,2025-04-18,Pós-graduação,Viúvo(a),CLT,2.4,7,1218.22,0,6.4
+340,Rafael Alves 340,28,Marketing,Coordenador de Marketing,7807.44,36,2022-10-01,Pós-graduação,Casado(a),CLT,3.9,12,688.64,2,7.0
+341,Camila Martins 341,34,Marketing,Coordenador de Marketing,8303.61,4,2025-05-18,Pós-graduação,Divorciado(a),CLT,4.3,9,1120.44,2,7.0
+342,Simone Campos 342,34,Vendas,Coordenador de Vendas,8016.18,46,2021-12-05,Pós-graduação,Casado(a),CLT,3.8,5,847.24,1,5.6
+343,Maria Oliveira 343,44,Vendas,Vendedor Pleno,4297.4,9,2024-12-19,Superior Completo,Casado(a),CLT,4.1,8,1050.9,1,9.7
+344,Carla Souza 344,36,Vendas,Vendedor Pleno,4039.29,16,2024-05-23,Técnico,Solteiro(a),PJ,2.7,4,820.53,2,6.6
+345,Larissa Cardoso 345,43,Vendas,Vendedor Pleno,3490.25,120,2015-11-07,Mestrado,Solteiro(a),CLT,2.0,9,616.56,0,9.0
+346,Renata Freitas 346,22,Jurídico,Advogado Pleno,18551.99,72,2019-10-17,Ensino Médio,Solteiro(a),PJ,4.5,10,706.12,3,
+347,Maria Oliveira 347,30,Financeiro,Gerente Financeiro,9599.94,9,2024-12-19,Pós-graduação,Casado(a),PJ,2.9,6,1032.32,1,6.7
+348,Thiago Nascimento 348,39,Marketing,Coordenador de Marketing,9424.49,8,2025-01-18,Mestrado,Divorciado(a),PJ,2.7,10,1217.55,4,6.4
+349,Gustavo Moreira 349,41,Financeiro,Gerente Financeiro,10044.35,7,2025-02-17,Superior Completo,Casado(a),CLT,3.7,10,1097.92,1,5.1
+350,Thiago Nascimento 350,34,TI,Desenvolvedor Jr,5606.53,57,2021-01-09,Superior Incompleto,Solteiro(a),CLT,4.4,11,858.38,0,9.1
+351,Fernanda Lima 351,37,Vendas,Gerente de Vendas,10673.35,30,2023-03-30,Ensino Médio,Solteiro(a),CLT,4.1,12,1163.95,2,7.3
+352,Larissa Cardoso 352,28,Marketing,Analista de Marketing Jr,3975.11,32,2023-01-29,Superior Completo,Casado(a),CLT,3.3,6,1017.96,4,8.6
+353,Vinícius Melo 353,35,TI,QA Analyst,5154.36,8,2025-01-18,Superior Incompleto,Solteiro(a),CLT,2.9,8,1024.3,1,10.0
+354,Vanessa Castro 354,37,Vendas,Gerente de Vendas,9747.11,1,2025-08-16,Superior Completo,Casado(a),CLT,2.7,9,923.82,4,7.1
+355,Rodrigo Barbosa 355,35,Vendas,Vendedor Jr,3544.8,3,2025-06-17,Superior Completo,Casado(a),PJ,4.2,7,618.06,2,5.1
+356,Diego Ribeiro 356,32,Operações,Coordenador de Operações,6352.07,28,2023-05-29,Pós-graduação,Divorciado(a),CLT,2.6,13,,1,6.5
+357,Cristina Ramos 357,36,Financeiro,Gerente Financeiro,11149.28,17,2024-04-23,Técnico,Solteiro(a),CLT,3.3,9,1041.32,2,4.2
+358,Vinícius Melo 358,44,Marketing,Gerente de Marketing,10625.54,19,2024-02-23,Superior Completo,Solteiro(a),CLT,3.8,6,902.73,1,4.4
+359,Gustavo Moreira 359,23,Vendas,Coordenador de Vendas,7170.5,4,2025-05-18,Mestrado,Casado(a),CLT,4.4,5,956.47,3,6.7
+360,Fábio Correia 360,44,Operações,Gerente de Operações,11436.38,8,2025-01-18,Superior Incompleto,Solteiro(a),CLT,2.8,3,706.69,0,3.5
+361,Simone Campos 361,25,Jurídico,Advogado Pleno,5790.73,23,2023-10-26,Superior Completo,Casado(a),Terceirizado,3.2,7,726.55,4,8.1
+362,Rodrigo Barbosa 362,37,TI,Desenvolvedor Pleno,7094.69,2,2025-07-17,Superior Completo,Casado(a),CLT,4.0,6,588.16,3,6.2
+363,Juliana Rocha 363,48,Jurídico,Gerente Jurídico,13237.6,63,2020-07-13,Superior Completo,Solteiro(a),CLT,3.0,6,351.62,3,7.9
+364,Rodrigo Barbosa 364,36,RH,Analista de RH Jr,3669.22,107,2016-12-01,Superior Incompleto,Solteiro(a),CLT,3.4,9,390.16,0,6.4
+365,Larissa Cardoso 365,20,TI,Desenvolvedor Sr,10191.51,64,2020-06-13,Pós-graduação,Casado(a),CLT,4.5,11,,2,5.5
+366,Marcelo Cunha 366,34,Vendas,Gerente de Vendas,12981.44,1,2025-08-16,Técnico,Solteiro(a),CLT,3.3,9,572.16,3,
+367,André Teixeira 367,66,Operações,Analista de Operações,3907.33,32,2023-01-29,Pós-graduação,Solteiro(a),CLT,2.7,9,963.6,2,
+368,Patrícia Lopes 368,32,RH,Gerente de RH,8134.62,66,2020-04-14,Superior Completo,Solteiro(a),CLT,4.3,2,1101.01,3,5.4
+369,Eduardo Pinto 369,28,Vendas,Vendedor Pleno,4451.11,19,2024-02-23,Superior Incompleto,Casado(a),PJ,4.4,5,898.4,2,6.5
+370,Felipe Araújo 370,26,Marketing,Analista de Marketing Jr,3506.92,17,2024-04-23,Pós-graduação,Divorciado(a),CLT,2.9,6,1016.72,2,6.5
+371,Eduardo Pinto 371,39,Financeiro,Gerente Financeiro,12584.33,30,2023-03-30,Superior Completo,Solteiro(a),PJ,3.0,2,1023.37,1,6.7
+372,Vanessa Castro 372,22,TI,Gerente de TI,16198.76,14,2024-07-22,Pós-graduação,Casado(a),PJ,2.9,7,923.67,1,9.2
+373,Marcelo Cunha 373,38,Vendas,Vendedor Jr,3382.82,27,2023-06-28,Superior Incompleto,Viúvo(a),CLT,3.0,6,998.91,2,6.6
+374,Maria Oliveira 374,37,RH,Gerente de RH,8928.9,13,2024-08-21,Superior Completo,Solteiro(a),CLT,4.4,12,731.07,2,
+375,Carla Souza 375,40,Operações,Coordenador de Operações,6852.42,5,2025-04-18,Superior Completo,Casado(a),CLT,3.8,14,638.02,1,6.8
+376,Lucas Pereira 376,46,Marketing,Analista de Marketing Jr,2986.95,4,2025-05-18,Pós-graduação,Viúvo(a),CLT,4.9,5,672.64,2,7.5
+377,Juliana Rocha 377,36,Marketing,Gerente de Marketing,11098.49,20,2024-01-24,Superior Incompleto,Divorciado(a),CLT,3.5,9,1025.56,2,7.7
+378,Camila Martins 378,24,TI,Desenvolvedor Pleno,9097.93,13,2024-08-21,Técnico,Casado(a),PJ,2.8,8,701.16,3,7.4
+379,Priscila Gomes 379,36,TI,Desenvolvedor Sr,9930.53,11,2024-10-20,Superior Incompleto,Divorciado(a),CLT,4.0,6,745.95,2,6.0
+380,Camila Martins 380,32,Marketing,Gerente de Marketing,11594.37,1,2025-08-16,Superior Completo,Casado(a),CLT,3.9,4,594.13,1,9.4
+381,Juliana Rocha 381,41,Vendas,Gerente de Vendas,14113.54,21,2023-12-25,Mestrado,Solteiro(a),CLT,3.0,7,1342.72,1,4.9
+382,Juliana Rocha 382,45,RH,Analista de RH Jr,2290.7,1,2025-08-16,Superior Incompleto,Casado(a),CLT,4.0,11,1051.02,5,8.0
+383,Rodrigo Barbosa 383,67,TI,Desenvolvedor Jr,4314.62,1,2025-08-16,Pós-graduação,Divorciado(a),CLT,3.1,66,952.02,2,6.6
+384,André Teixeira 384,37,Operações,Gerente de Operações,8161.75,23,2023-10-26,Superior Incompleto,Solteiro(a),CLT,3.4,9,1072.03,6,
+385,João Santos 385,29,Vendas,Vendedor Sr,8071.9,25,2023-08-27,Superior Completo,Casado(a),PJ,3.8,7,1067.76,2,4.4
+386,Rafael Alves 386,27,Jurídico,Advogado Jr,4433.82,17,2024-04-23,Técnico,Casado(a),CLT,2.8,4,699.17,1,7.7
+387,Cristina Ramos 387,32,Financeiro,Analista Financeiro Jr,3783.56,22,2023-11-25,Superior Completo,Casado(a),CLT,4.6,6,793.39,5,6.2
+388,Cristina Ramos 388,32,Operações,Analista de Operações,4258.61,1,2025-08-16,Superior Completo,Casado(a),CLT,3.2,9,1068.97,1,
+389,Rafael Alves 389,35,TI,Desenvolvedor Pleno,7033.22,31,2023-02-28,Superior Completo,Solteiro(a),PJ,4.7,9,990.64,1,8.2
+390,Patrícia Lopes 390,26,Marketing,Analista de Marketing Jr,2881.86,5,2025-04-18,Superior Completo,Casado(a),CLT,3.1,7,893.29,3,7.1
+391,Felipe Araújo 391,32,Financeiro,Analista Financeiro Pleno,5897.09,9,2024-12-19,Mestrado,Solteiro(a),PJ,2.9,11,589.91,0,8.3
+392,Rafael Alves 392,35,Vendas,Vendedor Pleno,4869.06,49,2021-09-06,Mestrado,Solteiro(a),Estágio,3.7,9,685.95,3,4.1
+393,Rodrigo Barbosa 393,23,Vendas,Vendedor Jr,2922.38,23,2023-10-26,Superior Completo,Viúvo(a),PJ,2.8,3,715.01,3,6.8
+394,Vanessa Castro 394,38,Jurídico,Advogado Pleno,7270.1,57,2021-01-09,Superior Incompleto,Casado(a),CLT,3.6,8,757.21,4,5.7
+395,Priscila Gomes 395,39,Financeiro,Contador,5826.09,3,2025-06-17,Superior Completo,Solteiro(a),PJ,2.7,11,638.36,5,6.6
+396,Cristina Ramos 396,45,Vendas,Vendedor Sr,6003.39,10,2024-11-19,Mestrado,Divorciado(a),PJ,3.5,12,984.16,4,
+397,Lucas Pereira 397,48,RH,Analista de RH Jr,2577.57,4,2025-05-18,Superior Incompleto,Divorciado(a),PJ,3.5,8,698.67,2,7.4
+398,Cristina Ramos 398,43,Vendas,Vendedor Pleno,4493.33,9,2024-12-19,Pós-graduação,Divorciado(a),Terceirizado,3.3,8,849.65,2,6.6
+399,Bruno Ferreira 399,51,Jurídico,Advogado Jr,3018.59,1,2025-08-16,Pós-graduação,Solteiro(a),PJ,3.3,11,449.7,0,6.2
+400,Vanessa Castro 400,41,Marketing,Analista de Marketing Jr,2939.45,6,2025-03-19,Superior Incompleto,Casado(a),CLT,2.3,3,1011.56,1,
+401,Eduardo Pinto 401,44,Financeiro,Contador,8968.01,7,2025-02-17,Pós-graduação,Casado(a),CLT,1.1,10,891.71,0,9.2
+402,Vanessa Castro 402,67,Operações,Gerente de Operações,12258.7,8,2025-01-18,Superior Incompleto,Solteiro(a),CLT,3.7,6,1034.04,1,9.3
+403,Eduardo Pinto 403,26,Vendas,Gerente de Vendas,11834.05,1,2025-08-16,Mestrado,Casado(a),Terceirizado,4.7,3,629.44,2,5.4
+404,Larissa Cardoso 404,28,Vendas,Vendedor Pleno,4563.08,14,2024-07-22,Superior Completo,Solteiro(a),CLT,3.0,6,884.05,3,6.5
+405,Maria Oliveira 405,66,Marketing,Analista de Marketing Pleno,6502.44,19,2024-02-23,Pós-graduação,Divorciado(a),CLT,2.7,7,830.37,2,8.0
+406,Pedro Costa 406,33,Operações,Gerente de Operações,10498.23,20,2024-01-24,Pós-graduação,Casado(a),Estágio,,7,737.18,2,6.3
+407,Cristina Ramos 407,22,Vendas,Vendedor Sr,9216.19,14,2024-07-22,Pós-graduação,Casado(a),PJ,2.6,9,1169.39,2,7.2
+408,Vinícius Melo 408,22,TI,DevOps,8648.1,1,2025-08-16,Técnico,Solteiro(a),CLT,4.1,7,638.31,3,6.5
+409,Felipe Araújo 409,31,Operações,Analista de Operações,3645.38,1,2025-08-16,Superior Completo,Casado(a),CLT,3.8,3,543.52,1,8.7
+410,Fábio Correia 410,38,Operações,Gerente de Operações,10272.16,10,2024-11-19,Técnico,Casado(a),PJ,3.4,9,873.6,2,3.3
+411,Fábio Correia 411,67,RH,Analista de RH Jr,3111.03,1,2025-08-16,Superior Completo,Solteiro(a),CLT,3.2,7,877.27,4,5.7
+412,Diego Ribeiro 412,37,Operações,Gerente de Operações,10499.29,1,2025-08-16,Pós-graduação,Casado(a),CLT,3.5,9,238.85,3,7.6
+413,Thiago Nascimento 413,26,RH,Coordenador de RH,9489.45,70,2019-12-16,Superior Incompleto,Divorciado(a),CLT,4.9,6,1006.31,1,8.4
+414,Maria Oliveira 414,44,TI,Gerente de TI,15225.64,4,2025-05-18,Superior Completo,Casado(a),CLT,5.0,7,1058.46,2,6.4
+415,Tatiane Mendes 415,34,TI,Desenvolvedor Sr,15332.41,2,2025-07-17,Superior Incompleto,Solteiro(a),CLT,2.1,8,715.76,7,6.5
+416,Ana Silva 416,44,Jurídico,Gerente Jurídico,16407.62,5,2025-04-18,Superior Completo,Solteiro(a),Terceirizado,1.9,10,919.33,3,8.6
+417,Patrícia Lopes 417,32,TI,Analista de Sistemas,4850.66,8,2025-01-18,Superior Completo,Solteiro(a),Estágio,,7,520.96,2,4.5
+418,Pedro Costa 418,49,Jurídico,Gerente Jurídico,15075.55,1,2025-08-16,Mestrado,Divorciado(a),CLT,3.7,12,1035.95,5,6.5
+419,Diego Ribeiro 419,37,TI,DevOps,8350.29,11,2024-10-20,Superior Completo,Solteiro(a),CLT,2.6,6,740.67,2,4.6
+420,Simone Campos 420,38,Operações,Coordenador de Operações,6030.67,43,2022-03-05,Pós-graduação,Solteiro(a),CLT,,14,813.77,2,8.7
+421,Renata Freitas 421,30,Operações,Analista de Operações,4126.24,1,2025-08-16,Técnico,Solteiro(a),CLT,3.4,4,1043.27,2,6.2
+422,Thiago Nascimento 422,32,Operações,Analista de Operações,3939.66,4,2025-05-18,Superior Incompleto,Casado(a),CLT,1.9,10,562.65,0,8.0
+423,André Teixeira 423,22,Vendas,Coordenador de Vendas,7785.76,79,2019-03-21,Superior Completo,Casado(a),CLT,4.6,4,746.51,3,8.1
+424,Tatiane Mendes 424,43,Financeiro,Contador,6238.32,76,2019-06-19,Superior Completo,Divorciado(a),CLT,3.4,4,1152.87,0,5.2
+425,Felipe Araújo 425,44,Operações,Gerente de Operações,10336.16,13,2024-08-21,Superior Completo,Casado(a),Estágio,3.8,7,711.49,3,5.6
+426,Cristina Ramos 426,22,Vendas,Gerente de Vendas,14199.91,2,2025-07-17,Pós-graduação,Solteiro(a),CLT,3.0,70,568.28,3,4.3
+427,Priscila Gomes 427,28,RH,Gerente de RH,8269.44,34,2022-11-30,Pós-graduação,Divorciado(a),CLT,3.8,5,397.19,3,7.7
+428,Patrícia Lopes 428,37,Financeiro,Contador,8318.2,24,2023-09-26,Mestrado,Solteiro(a),CLT,3.0,7,1084.04,4,7.9
+429,Camila Martins 429,42,Vendas,Vendedor Pleno,2228.58,13,2024-08-21,Pós-graduação,Casado(a),CLT,2.9,9,1170.54,1,10.0
+430,Patrícia Lopes 430,43,Operações,Analista de Operações,3441.09,4,2025-05-18,Ensino Médio,Solteiro(a),PJ,2.9,11,610.28,2,5.6
+431,Juliana Rocha 431,26,Financeiro,Gerente Financeiro,12575.27,7,2025-02-17,Ensino Médio,Divorciado(a),CLT,2.7,7,832.05,3,4.4
+432,Rafael Alves 432,41,Marketing,Gerente de Marketing,9205.21,5,2025-04-18,Mestrado,Solteiro(a),PJ,3.4,4,171.72,5,8.2
+433,Vanessa Castro 433,23,Operações,Gerente de Operações,4406.09,14,2024-07-22,Superior Completo,Divorciado(a),Estágio,2.9,7,902.88,1,6.6
+434,Marcelo Cunha 434,43,TI,Analista de Sistemas,7164.03,2,2025-07-17,Superior Completo,Divorciado(a),CLT,3.8,14,754.93,1,9.5
+435,Camila Martins 435,47,Vendas,Vendedor Jr,3401.33,15,2024-06-22,Pós-graduação,Solteiro(a),CLT,3.5,5,820.33,1,6.7
+436,Rodrigo Barbosa 436,42,Operações,Coordenador de Operações,7358.84,12,2024-09-20,Mestrado,Solteiro(a),PJ,2.5,4,1172.27,2,7.4
+437,Lucas Pereira 437,37,Operações,Coordenador de Operações,13785.23,23,2023-10-26,Pós-graduação,Solteiro(a),CLT,3.5,68,879.06,3,6.7
+438,Fernanda Lima 438,22,Marketing,Coordenador de Marketing,5744.05,7,2025-02-17,Pós-graduação,Casado(a),CLT,4.0,11,486.09,0,
+439,Fábio Correia 439,25,Marketing,Coordenador de Marketing,8966.55,68,2020-02-14,Pós-graduação,Solteiro(a),CLT,4.3,10,1023.12,4,6.7
+440,Camila Martins 440,39,Vendas,Vendedor Sr,9449.26,65,2020-05-14,Técnico,Casado(a),CLT,3.1,10,670.83,3,5.2
+441,Simone Campos 441,34,Marketing,Coordenador de Marketing,7061.62,22,2023-11-25,Técnico,Solteiro(a),CLT,3.7,10,1014.83,2,7.2
+442,Gustavo Moreira 442,36,Marketing,Analista de Marketing Jr,3307.5,3,2025-06-17,Superior Incompleto,Solteiro(a),PJ,3.4,7,1276.61,3,10.0
+443,Aline Dias 443,38,Financeiro,Analista Financeiro Pleno,5712.84,61,2020-09-11,Pós-graduação,Casado(a),PJ,3.2,6,642.83,1,6.7
+444,Maria Oliveira 444,38,Vendas,Vendedor Pleno,5658.99,37,2022-09-01,Pós-graduação,Solteiro(a),PJ,3.0,8,1007.86,1,8.1
+445,André Teixeira 445,34,Operações,Coordenador de Operações,6710.57,27,2023-06-28,Superior Completo,Casado(a),PJ,2.7,7,629.95,2,8.6
+446,Rodrigo Barbosa 446,26,Jurídico,Advogado Pleno,5475.25,2,2025-07-17,Técnico,Casado(a),PJ,2.1,8,691.1,2,5.8
+447,Renata Freitas 447,22,TI,Analista de Sistemas,8224.12,19,2024-02-23,Superior Completo,Solteiro(a),CLT,2.5,5,1043.05,1,9.4
+448,Tatiane Mendes 448,35,TI,DevOps,9669.34,7,2025-02-17,Ensino Médio,Solteiro(a),PJ,3.1,13,1107.91,4,6.4
+449,Rodrigo Barbosa 449,37,Operações,Coordenador de Operações,7958.72,26,2023-07-28,Superior Incompleto,Solteiro(a),CLT,4.0,7,864.13,4,8.4
+450,Fábio Correia 450,42,RH,Analista de RH Jr,3749.05,31,2023-02-28,Superior Incompleto,Casado(a),PJ,3.3,11,720.59,2,9.3
+451,Maria Oliveira 451,28,Vendas,Vendedor Sr,8178.04,21,2023-12-25,Superior Completo,Casado(a),CLT,3.2,12,852.04,2,7.8
+452,Rafael Alves 452,22,Jurídico,Gerente Jurídico,12165.15,37,2022-09-01,Superior Incompleto,Divorciado(a),CLT,4.6,15,593.26,5,6.9
+453,Renata Freitas 453,33,Vendas,Vendedor Pleno,3808.54,19,2024-02-23,Pós-graduação,Casado(a),PJ,4.0,8,986.81,1,4.7
+454,Bruno Ferreira 454,38,Financeiro,Contador,6856.77,32,2023-01-29,Superior Incompleto,Casado(a),CLT,3.1,15,631.95,1,6.4
+455,Rodrigo Barbosa 455,36,TI,Gerente de TI,15508.06,2,2025-07-17,Superior Completo,Casado(a),CLT,2.7,6,1076.55,4,6.4
+456,Aline Dias 456,34,RH,Coordenador de RH,6459.12,20,2024-01-24,Pós-graduação,Casado(a),CLT,3.8,6,806.07,0,7.4
+457,Thiago Nascimento 457,44,Marketing,Coordenador de Marketing,9142.14,2,2025-07-17,Mestrado,Solteiro(a),PJ,4.7,7,825.85,3,9.2
+458,Diego Ribeiro 458,27,Vendas,Gerente de Vendas,13715.68,5,2025-04-18,Técnico,Casado(a),CLT,2.9,8,857.78,2,7.8
+459,Juliana Rocha 459,20,TI,Desenvolvedor Sr,10855.27,5,2025-04-18,Superior Incompleto,Casado(a),Estágio,3.0,6,980.44,2,8.9
+460,Juliana Rocha 460,26,Marketing,Analista de Marketing Pleno,5480.55,1,2025-08-16,Técnico,Solteiro(a),CLT,3.4,10,651.43,2,6.7
+461,Pedro Costa 461,44,Jurídico,Advogado Pleno,7625.78,10,2024-11-19,Superior Incompleto,Casado(a),CLT,3.7,10,582.13,3,5.9
+462,Camila Martins 462,36,Operações,Analista de Operações,3473.2,35,2022-10-31,Superior Completo,Casado(a),PJ,3.3,9,512.83,3,7.7
+463,André Teixeira 463,66,Vendas,Coordenador de Vendas,8301.37,10,2024-11-19,Superior Incompleto,Divorciado(a),CLT,4.2,6,737.64,1,8.5
+464,Cristina Ramos 464,43,RH,Analista de RH Pleno,7134.04,68,2020-02-14,Técnico,Solteiro(a),PJ,2.4,9,434.84,2,8.5
+465,Fernanda Lima 465,28,Jurídico,Advogado Pleno,9142.14,27,2023-06-28,Técnico,Casado(a),CLT,3.3,5,661.59,2,6.8
+466,André Teixeira 466,23,Jurídico,Gerente Jurídico,12423.41,2,2025-07-17,Superior Incompleto,Viúvo(a),CLT,4.1,5,938.75,3,8.0
+467,Juliana Rocha 467,46,Marketing,Coordenador de Marketing,7411.64,35,2022-10-31,Superior Completo,Casado(a),CLT,3.2,8,777.3,2,4.5
+468,Pedro Costa 468,29,Financeiro,Analista Financeiro Pleno,14571.0,106,2016-12-31,Mestrado,Solteiro(a),CLT,3.3,9,954.93,2,9.2
+469,Bruno Ferreira 469,24,RH,Analista de RH Pleno,2245.01,83,2018-11-21,Superior Completo,Casado(a),CLT,3.7,11,586.84,2,6.4
+470,Diego Ribeiro 470,51,Operações,Analista de Operações,4334.26,6,2025-03-19,Superior Completo,Solteiro(a),PJ,2.6,9,531.79,1,5.7
+471,Bruno Ferreira 471,38,Vendas,Vendedor Jr,2887.03,1,2025-08-16,Mestrado,Casado(a),PJ,3.7,10,1163.12,3,4.7
+472,Renata Freitas 472,36,Financeiro,Analista Financeiro Pleno,4974.15,1,2025-08-16,Técnico,Casado(a),PJ,3.0,8,833.89,1,
+473,Juliana Rocha 473,33,Marketing,Analista de Marketing Jr,4159.97,7,2025-02-17,Pós-graduação,Solteiro(a),CLT,2.2,40,879.84,3,7.4
+474,João Santos 474,46,Vendas,Coordenador de Vendas,7657.45,62,2020-08-12,Pós-graduação,Casado(a),CLT,3.8,10,668.96,3,6.8
+475,Bruno Ferreira 475,35,TI,DevOps,8458.27,43,2022-03-05,Pós-graduação,Divorciado(a),CLT,2.1,11,963.31,1,6.7
+476,Carla Souza 476,28,Vendas,Gerente de Vendas,10283.97,36,2022-10-01,Superior Completo,Divorciado(a),CLT,2.4,11,400.01,1,9.0
+477,Pedro Costa 477,43,Marketing,Analista de Marketing Jr,4315.68,8,2025-01-18,Superior Completo,Casado(a),CLT,4.6,6,724.84,3,9.6
+478,Vanessa Castro 478,27,Financeiro,Contador,7646.88,3,2025-06-17,Técnico,Solteiro(a),CLT,3.9,7,1014.78,1,
+479,Rodrigo Barbosa 479,51,RH,Gerente de RH,10617.04,16,2024-05-23,Superior Completo,Casado(a),Estágio,,10,758.42,1,8.3
+480,Priscila Gomes 480,43,Jurídico,Advogado Sr,10432.48,30,2023-03-30,Técnico,Solteiro(a),CLT,4.5,6,461.11,0,7.7
+481,Lucas Pereira 481,31,TI,Desenvolvedor Jr,5024.74,20,2024-01-24,Mestrado,Casado(a),PJ,4.1,5,580.48,2,9.3
+482,Juliana Rocha 482,29,Operações,Coordenador de Operações,7792.41,47,2021-11-05,Superior Incompleto,Solteiro(a),CLT,3.5,9,994.75,1,6.8
+483,Pedro Costa 483,28,Operações,Analista de Operações,4413.39,6,2025-03-19,Técnico,Casado(a),CLT,3.5,5,853.57,2,6.0
+484,Larissa Cardoso 484,34,RH,Gerente de RH,11602.0,2,2025-07-17,Mestrado,Casado(a),PJ,,70,445.62,1,8.0
+485,Maria Oliveira 485,33,RH,Analista de RH Jr,2392.65,21,2023-12-25,Ensino Médio,Solteiro(a),CLT,3.6,8,847.7,0,8.5
+486,Carla Souza 486,38,Vendas,Vendedor Pleno,4507.37,23,2023-10-26,Superior Completo,Solteiro(a),Estágio,2.6,11,777.27,2,9.4
+487,Fábio Correia 487,34,Vendas,Coordenador de Vendas,7350.91,8,2025-01-18,Pós-graduação,Solteiro(a),CLT,3.9,10,690.73,2,4.5
+488,Bruno Ferreira 488,66,TI,Desenvolvedor Jr,5005.45,96,2017-10-27,Mestrado,Solteiro(a),CLT,2.5,9,699.46,2,7.2
+489,Rafael Alves 489,35,Marketing,Analista de Marketing Jr,3716.16,37,2022-09-01,Superior Completo,Solteiro(a),CLT,3.3,9,989.0,3,7.6
+490,Gustavo Moreira 490,36,Operações,Coordenador de Operações,8823.26,13,2024-08-21,Técnico,Casado(a),CLT,3.6,12,660.55,0,4.0
+491,Felipe Araújo 491,46,Financeiro,Analista Financeiro Pleno,4781.86,12,2024-09-20,Superior Completo,Casado(a),CLT,2.1,9,1083.85,2,6.2
+492,Cristina Ramos 492,43,Marketing,Gerente de Marketing,13251.29,60,2020-10-11,Pós-graduação,Casado(a),CLT,4.0,3,518.68,0,5.7
+493,Priscila Gomes 493,23,RH,Gerente de RH,11392.5,38,2022-08-02,Superior Completo,Casado(a),CLT,3.6,8,871.68,3,6.1
+494,Bruno Ferreira 494,27,TI,QA Analyst,5805.3,20,2024-01-24,Superior Completo,Divorciado(a),CLT,4.6,5,968.66,2,8.6
+495,Vanessa Castro 495,29,Marketing,Gerente de Marketing,15425.46,37,2022-09-01,Pós-graduação,Divorciado(a),CLT,3.0,11,878.43,4,4.7
+496,Bruno Ferreira 496,25,Vendas,Coordenador de Vendas,7901.52,8,2025-01-18,Superior Incompleto,Casado(a),CLT,2.6,10,629.04,3,9.2
+497,Felipe Araújo 497,27,Vendas,Vendedor Jr,2200.82,4,2025-05-18,Mestrado,Solteiro(a),CLT,,8,584.25,1,8.3
+498,Felipe Araújo 498,42,Operações,Gerente de Operações,9631.39,2,2025-07-17,Superior Completo,Casado(a),PJ,3.9,9,1089.26,3,6.0
+499,Pedro Costa 499,32,Marketing,Analista de Marketing Pleno,4788.13,27,2023-06-28,Ensino Médio,Solteiro(a),PJ,3.7,11,576.16,2,9.0
+500,Tatiane Mendes 500,35,Marketing,Analista de Marketing Pleno,6159.09,17,2024-04-23,Superior Incompleto,Casado(a),PJ,3.2,7,588.89,2,9.1
