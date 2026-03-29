@@ -1,0 +1,45 @@
+
+.header {
+  display: flex;             
+  justify-content: space-between; 
+  align-items: center;        
+  padding: 10px 10px;         
+}
+
+/* Menu */
+.menu a {
+  margin-left: 15px;         
+  font-weight: bold;
+}
+
+.banner {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center; 
+  align-items: center; 
+  text-align: center; 
+}
+
+.filtros {
+  display: flex;
+  flex-direction: column; 
+  align-items: flex-start; 
+  gap: 10px; 
+}
+
+.eventos {
+  display: flex;
+  flex-wrap: wrap;       
+  justify-content: flex-end; 
+  gap: 20px;              
+}
+
+.card {
+  width: 250px;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+  padding: 300px;
+}
