@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Formulário</title>
+
+<style>
+  body {
+    height: 1000px;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-color: blue;   
+
+  }
+
+
+  input {
+    padding: 8px;
+    gap:10px;
+    width: 100%;
+  }
+
+  select {
+    padding: 8px;
+    width: 100%;
+  }
+
+  button {
+    padding: 8px;
+    width: 100%;
+  }
+
+   termos {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  textarea {
+    height: 80px;
+  }
+</style>
+</head>
+
+<body>
+
+<div class="container">
+  <input type="text" id="nome" placeholder="Nome">
+  <input type="password" id="senha" placeholder="Senha">
+  <input type="number" id="idade" placeholder="Idade">
+  <input type="email" id="email" placeholder="Email">
+
+  <select id="cidade">
+    <option value="">Selecione a cidade</option>
+    <option value="Rio de Janeiro">Rio de Janeiro</option>
+    <option value="Teresina">Teresina</option>
+    <option value="São Paulo">São Paulo</option>
+    <option value="Brasília">Brasília</option>
+  </select>
+
+  <textarea id="mensagem">Digite sua mensagem</textarea>
+
+
+  <div class="termos">
+    <input type="checkbox" id="termos">
+    <label for="termos">Aceito os termos</label>
+  </div>
+
+
+
+  <button onclick="mostranome()">Enviar</button>
+</div>
+
+<script>
+function mostranome(){
+    let nome = document.getElementById("nome").value;
+    let senha = document.getElementById("senha").value;
+    let idade = document.getElementById("idade").value;
+    let email = document.getElementById("email").value;
+    let cidade = document.getElementById("cidade").value;
+    let checkbox = document.getElementById("termos");
+    
+
+    if(nome === '' || senha === '' || idade === '' || email === '' || cidade === "" ||  mensagem === "" || !checkbox.checked){
+        alert('Erro, preencha todos os campos e aceite os termos');
+    } else {
+        alert("Olá " + nome);
+    }
+}
+</script>
+
+</body>
+</html>
