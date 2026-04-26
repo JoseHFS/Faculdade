@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: "Courier New", monospace;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    padding: 20px;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+.section {
+    margin-bottom: 25px;
+    padding: 15px;
+    border-left: 3px solid gray;
+    background-color: black;
+}
+
+h2 {
+    color: red;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+
+.adendo {
+    border-left: 3px solid red;
+    background-color: black;
+}
+
+.highlight {
+    color: red;
+    font-style: italic;
+}
+
+ul {
+    padding-left: 20px;
+}
+
